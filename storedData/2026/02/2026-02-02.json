@@ -13,9 +13,9 @@
       "noOfEsts": "8"
     },
     {
-      "eps": "$1.76",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$1.63",
+      "surprise": "3.82",
+      "time": "time-not-supplied",
       "symbol": "DIS",
       "name": "Walt Disney Company (The)",
       "marketCap": "$200,038,047,622",
@@ -24,8 +24,8 @@
       "noOfEsts": "10"
     },
     {
-      "eps": "$0.15",
-      "surprise": "N/A",
+      "eps": "$0.16",
+      "surprise": "14.29",
       "time": "time-not-supplied",
       "symbol": "MFG",
       "name": "Mizuho Financial Group, Inc.",
@@ -57,9 +57,9 @@
       "noOfEsts": "10"
     },
     {
-      "eps": "$2.62",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$3.08",
+      "surprise": "5.12",
+      "time": "time-not-supplied",
       "symbol": "IDXX",
       "name": "IDEXX Laboratories, Inc.",
       "marketCap": "$53,537,122,712",
@@ -79,9 +79,9 @@
       "noOfEsts": "7"
     },
     {
-      "eps": "$1.14",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$0.97",
+      "surprise": "-3.96",
+      "time": "time-not-supplied",
       "symbol": "TSN",
       "name": "Tyson Foods, Inc.",
       "marketCap": "$23,065,023,700",
@@ -112,9 +112,9 @@
       "noOfEsts": "3"
     },
     {
-      "eps": "$1.75",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$1.86",
+      "surprise": "2.2",
+      "time": "time-not-supplied",
       "symbol": "APTV",
       "name": "Aptiv PLC",
       "marketCap": "$16,368,015,383",
@@ -123,9 +123,9 @@
       "noOfEsts": "8"
     },
     {
-      "eps": "$1.42",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$1.70",
+      "surprise": "6.92",
+      "time": "time-not-supplied",
       "symbol": "RVTY",
       "name": "Revvity, Inc.",
       "marketCap": "$12,335,267,565",
@@ -189,9 +189,9 @@
       "noOfEsts": "4"
     },
     {
-      "eps": "$0.68",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$0.72",
+      "surprise": "-1.37",
+      "time": "time-not-supplied",
       "symbol": "HESM",
       "name": "Hess Midstream LP",
       "marketCap": "$4,589,547,648",
@@ -208,7 +208,7 @@
       "marketCap": "$3,451,906,761",
       "fiscalQuarterEnding": "Dec/2025",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "2"
     },
     {
       "eps": "$0.07",
@@ -222,9 +222,9 @@
       "noOfEsts": "4"
     },
     {
-      "eps": "$0.22",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$0.75",
+      "surprise": "22.95",
+      "time": "time-not-supplied",
       "symbol": "ARLP",
       "name": "Alliance Resource Partners, L.P.",
       "marketCap": "$3,059,155,532",
@@ -244,14 +244,14 @@
       "noOfEsts": "4"
     },
     {
-      "eps": "($0.53)",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "($0.50)",
+      "surprise": "-4.17",
+      "time": "time-not-supplied",
       "symbol": "TWST",
       "name": "Twist Bioscience Corporation",
       "marketCap": "$2,513,115,849",
       "fiscalQuarterEnding": "Dec/2025",
-      "epsForecast": "($0.47)",
+      "epsForecast": "($0.48)",
       "noOfEsts": "2"
     },
     {
@@ -263,7 +263,18 @@
       "marketCap": "$1,738,962,552",
       "fiscalQuarterEnding": "Dec/2025",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "2"
+    },
+    {
+      "eps": "$0.15",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "CLBK",
+      "name": "Columbia Financial, Inc.",
+      "marketCap": "$1,697,178,237",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "$0.15",
+      "noOfEsts": "2"
     },
     {
       "eps": "$0.63",
@@ -277,9 +288,9 @@
       "noOfEsts": "1"
     },
     {
-      "eps": "$0.28",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$0.38",
+      "surprise": "15.15",
+      "time": "time-not-supplied",
       "symbol": "NSSC",
       "name": "NAPCO Security Technologies, Inc.",
       "marketCap": "$1,315,656,912",
@@ -310,8 +321,19 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "$0.72",
+      "eps": "$0.34",
       "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "NFBK",
+      "name": "Northfield Bancorp, Inc.",
+      "marketCap": "$514,994,418",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "$0.97",
+      "surprise": "14.12",
       "time": "time-not-supplied",
       "symbol": "BSRR",
       "name": "Sierra Bancorp",
@@ -329,7 +351,7 @@
       "marketCap": "$460,851,943",
       "fiscalQuarterEnding": "Dec/2025",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "2"
     },
     {
       "eps": "$0.95",
@@ -351,7 +373,7 @@
       "marketCap": "$190,547,029",
       "fiscalQuarterEnding": "Dec/2025",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "2"
     },
     {
       "eps": "$0.06",
@@ -362,7 +384,18 @@
       "marketCap": "$75,098,617",
       "fiscalQuarterEnding": "Dec/2025",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "2"
+    },
+    {
+      "eps": "$0.21",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "OPHC",
+      "name": "OptimumBank Holdings, Inc.",
+      "marketCap": "$54,324,872",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "eps": "N/A",
@@ -373,7 +406,7 @@
       "marketCap": "$24,785,553",
       "fiscalQuarterEnding": "Dec/2025",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "2"
     },
     {
       "eps": "N/A",
@@ -384,7 +417,7 @@
       "marketCap": "$5,155,876",
       "fiscalQuarterEnding": "Dec/2025",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "2"
     }
   ]
 }
