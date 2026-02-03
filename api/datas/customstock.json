@@ -1,102 +1,136 @@
 [
-    {
-        "symbol": "PDD",
-        "companyName": "拼多多",
-        "industry": "电子商务"
-    },
-    {
-        "symbol": "COIN",
-        "companyName": "Coinbase",
-        "industry": "金融科技"
-    },
-    {
-        "symbol": "SONY",
-        "companyName": "索尼",
-        "industry": "消费电子"
-    },
-    {
-        "symbol": "SHOP",
-        "companyName": "Shopify",
-        "industry": "电子商务"
-    },
-    {
-        "symbol": "ARM",
-        "companyName": "Arm",
-        "industry": "半导体"
-    },
-    {
-        "symbol": "BABA",
-        "companyName": "阿里巴巴",
-        "industry": "电子商务"
-    },
-    {
-        "symbol": "NVO",
-        "companyName": "Novo Nordisk",
-        "industry": "制药"
-    },
-    {
-        "symbol": "SMCI",
-        "companyName": "Super Micro Computer",
-        "industry": "计算机硬件"
-    },
-    {
-        "symbol": "U",
-        "companyName": "Unity",
-        "industry": "软件"
-    },
-    {
-        "symbol": "TSM",
-        "companyName": "台积电",
-        "industry": "半导体"
-    },
-    {
-        "symbol": "JD",
-        "companyName": "京东",
-        "industry": "电子商务"
-    },
-    {
-        "symbol": "BZ",
-        "companyName": "BOSS 直聘",
-        "industry": "人力资源"
-    },
-    {
-        "symbol": "NET",
-        "companyName": "Cloudflare",
-        "industry": "云计算"
-    },
-    {
-        "symbol": "SQ",
-        "companyName": "Square",
-        "industry": "金融科技"
-    },
-    {
-        "symbol": "NIO",
-        "companyName": "蔚来",
-        "industry": "汽车"
-    },
-    {
-        "symbol": "LI",
-        "companyName": "理想汽车",
-        "industry": "汽车"
-    },
-    {
-        "symbol": "LKNCY",
-        "companyName": "Luckin Coffee",
-        "industry": "餐饮"
-    },
-    {
-        "symbol": "BIDU",
-        "companyName": "百度",
-        "industry": "互联网"
-    },
-    {
-        "symbol": "XPEV",
-        "companyName": "小鹏汽车",
-        "industry": "汽车"
-    },
-    {
-        "symbol": "AI",
-        "companyName": "C3.ai",
-        "industry": "软件"
-    }
+  { "symbol": "STX", "companyName": "希捷科技", "industry": "数据存储" },
+  { "symbol": "ASML", "companyName": "阿斯麦", "industry": "半导体设备" },
+  { "symbol": "QCOM", "companyName": "高通", "industry": "半导体/通信" },
+  { "symbol": "NFLX", "companyName": "奈飞", "industry": "流媒体" },
+  {
+    "symbol": "RXRX",
+    "companyName": "Recursion Pharmaceuticals",
+    "industry": "生物技术"
+  },
+  { "symbol": "SMCI", "companyName": "超微电脑", "industry": "服务器/算力" },
+  { "symbol": "BABA", "companyName": "阿里巴巴", "industry": "电子商务" },
+  { "symbol": "SCCO", "companyName": "南方铜业", "industry": "基础材料/铜" },
+  { "symbol": "CVX", "companyName": "雪佛龙", "industry": "能源/石油" },
+  { "symbol": "WDC", "companyName": "西部数据", "industry": "数据存储" },
+  { "symbol": "SNDK", "companyName": "闪迪", "industry": "数据存储" },
+  { "symbol": "MU", "companyName": "美光科技", "industry": "半导体/存储" },
+  {
+    "symbol": "DJT",
+    "companyName": "特朗普媒体科技集团",
+    "industry": "社交媒体"
+  },
+  {
+    "symbol": "DXYZ",
+    "companyName": "Destiny Tech100",
+    "industry": "资产管理"
+  },
+  { "symbol": "PATH", "companyName": "UiPath", "industry": "软件/AI" },
+  { "symbol": "AMD", "companyName": "AMD", "industry": "半导体/芯片" },
+  { "symbol": "KO", "companyName": "可口可乐", "industry": "消费品/饮料" },
+  { "symbol": "UUUU", "companyName": "Energy Fuels", "industry": "能源/铀" },
+  { "symbol": "IREN", "companyName": "IREN", "industry": "数字资产/算力" },
+  { "symbol": "OKLO", "companyName": "Oklo", "industry": "核能" },
+  { "symbol": "PYPL", "companyName": "PayPal", "industry": "金融科技" },
+  { "symbol": "ELV", "companyName": "Elevance Health", "industry": "医疗健康" },
+  {
+    "symbol": "ALM",
+    "companyName": "Almonty Industries",
+    "industry": "基础材料/钨"
+  },
+  {
+    "symbol": "NVA",
+    "companyName": "Nova Minerals",
+    "industry": "基础材料/金"
+  },
+  { "symbol": "BE", "companyName": "Bloom Energy", "industry": "新能源/氢能" },
+  { "symbol": "UAMY", "companyName": "Us Antimony", "industry": "基础材料/锑" },
+  { "symbol": "VST", "companyName": "Vistra", "industry": "公用事业/能源" },
+  { "symbol": "ORCL", "companyName": "甲骨文", "industry": "软件/云服务" },
+  { "symbol": "ORBS", "companyName": "Eightco", "industry": "科技服务" },
+  { "symbol": "OCTO", "companyName": "Eightco", "industry": "科技服务" },
+  { "symbol": "NNE", "companyName": "NANO Nuclear Energy", "industry": "核能" },
+  { "symbol": "ASPI", "companyName": "ASP Isotopes", "industry": "材料科技" },
+  { "symbol": "SMR", "companyName": "NuScale Power", "industry": "核能" },
+  {
+    "symbol": "OPEN",
+    "companyName": "Opendoor Tech",
+    "industry": "房地产科技"
+  },
+  { "symbol": "XPEV", "companyName": "小鹏汽车", "industry": "汽车/新能源" },
+  { "symbol": "NIO", "companyName": "蔚来汽车", "industry": "汽车/新能源" },
+  {
+    "symbol": "PLTR",
+    "companyName": "Palantir Tech",
+    "industry": "软件/大数据"
+  },
+  {
+    "symbol": "MSTR",
+    "companyName": "MicroStrategy",
+    "industry": "软件/比特币持有"
+  },
+  { "symbol": "NVO", "companyName": "诺和诺德公司", "industry": "医疗保健" },
+  { "symbol": "TEM", "companyName": "Tempus AI", "industry": "医疗/人工智能" },
+  { "symbol": "COIN", "companyName": "Coinbase", "industry": "加密货币交易所" },
+  {
+    "symbol": "NBIS",
+    "companyName": "Nebius",
+    "industry": "人工智能/基础设施"
+  },
+  {
+    "symbol": "BRK.B",
+    "companyName": "伯克希尔哈撒韦-B",
+    "industry": "综合性投资"
+  },
+  {
+    "symbol": "MP",
+    "companyName": "MP Materials",
+    "industry": "基础材料/稀土"
+  },
+  { "symbol": "LMND", "companyName": "Lemonade", "industry": "保险科技" },
+  { "symbol": "INTC", "companyName": "英特尔", "industry": "半导体/芯片" },
+  { "symbol": "DUOL", "companyName": "多邻国", "industry": "软件/教育" },
+  { "symbol": "SHOP", "companyName": "Shopify", "industry": "电子商务" },
+  { "symbol": "UBER", "companyName": "优步", "industry": "交通/物流" },
+  {
+    "symbol": "QUBT",
+    "companyName": "Quantum Computing",
+    "industry": "量子计算"
+  },
+  {
+    "symbol": "JOBY",
+    "companyName": "Joby Aviation",
+    "industry": "航空/eVTOL"
+  },
+  {
+    "symbol": "UMAC",
+    "companyName": "Unusual Machines",
+    "industry": "科技硬件"
+  },
+  { "symbol": "ONDS", "companyName": "Ondas", "industry": "无线通信" },
+  { "symbol": "RCAT", "companyName": "Red Cat", "industry": "无人机科技" },
+  { "symbol": "AIRO", "companyName": "AIRO", "industry": "航空科技" },
+  { "symbol": "META", "companyName": "Meta", "industry": "社交媒体/AI" },
+  { "symbol": "UNH", "companyName": "联合健康", "industry": "医疗保险" },
+  { "symbol": "PDD", "companyName": "拼多多", "industry": "电子商务" },
+  {
+    "symbol": "CEG",
+    "companyName": "Constellation Energy",
+    "industry": "公用事业/能源"
+  },
+  { "symbol": "TSM", "companyName": "台积电", "industry": "半导体制造" },
+  { "symbol": "RKLB", "companyName": "Rocket Lab", "industry": "航天科技" },
+  { "symbol": "AVGO", "companyName": "博通", "industry": "半导体/网络" },
+  { "symbol": "TSLA", "companyName": "特斯拉", "industry": "汽车/新能源" },
+  { "symbol": "GOOGL", "companyName": "谷歌-A", "industry": "互联网/AI" },
+  { "symbol": "AMZN", "companyName": "亚马逊", "industry": "电子商务/云服务" },
+  { "symbol": "MSFT", "companyName": "微软", "industry": "软件/AI" },
+  { "symbol": "HOOD", "companyName": "Robinhood", "industry": "金融/交易" },
+  { "symbol": "AAPL", "companyName": "苹果", "industry": "消费电子" },
+  {
+    "symbol": "ACHR",
+    "companyName": "Archer Aviation",
+    "industry": "航空/eVTOL"
+  },
+  { "symbol": "NVDA", "companyName": "英伟达", "industry": "半导体/AI" }
 ]
