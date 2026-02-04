@@ -21,7 +21,7 @@ async function generateEarningsICSCalendar(date, list, filename) {
           {
             action: 'display',
             description: `财报预警：${entry.companyName} 将于 2 小时后发布`,
-            trigger: { hours: 2, minutes: 0, before: true },
+            trigger: { hours: 2, before: true },
           },
           {
             action: 'display',
@@ -36,12 +36,12 @@ async function generateEarningsICSCalendar(date, list, filename) {
           {
             action: 'display',
             description: `财报预警：${entry.companyName} 将于 1 周后发布`,
-            trigger: { weeks: 1, before: true },
+            trigger: { days: 7, before: true },
           },
           {
             action: 'display',
             description: `财报预警：${entry.companyName} 将于 2 周后发布`,
-            trigger: { weeks: 2, before: true },
+            trigger: { days: 14, before: true },
           },
         ],
       }
