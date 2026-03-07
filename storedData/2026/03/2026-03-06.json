@@ -135,6 +135,17 @@
     },
     {
       "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.12",
+      "time": "time-pre-market",
+      "symbol": "IMPP",
+      "name": "Imperial Petroleum Inc.",
+      "marketCap": "$191,000,977",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
       "time": "time-not-supplied",
       "symbol": "KLRS",
