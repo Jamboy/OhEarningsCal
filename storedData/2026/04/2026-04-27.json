@@ -2,9 +2,9 @@
   "date": "2026-04-27",
   "data": [
     {
-      "eps": "$1.28",
-      "surprise": "4.92",
-      "time": "time-not-supplied",
+      "eps": "$1.19",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "VZ",
       "name": "Verizon Communications Inc.",
       "marketCap": "$195,616,191,712",
@@ -134,9 +134,9 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "$4.13",
-      "surprise": "-3.73",
-      "time": "time-not-supplied",
+      "eps": "$4.33",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "DPZ",
       "name": "Domino's Pizza Inc",
       "marketCap": "$12,369,717,184",
@@ -274,7 +274,7 @@
       "marketCap": "$5,586,869,870",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "1"
     },
     {
       "eps": "$0.20",
@@ -310,9 +310,9 @@
       "noOfEsts": "1"
     },
     {
-      "eps": "$0.37",
-      "surprise": "37.04",
-      "time": "time-not-supplied",
+      "eps": "$0.60",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "ARLP",
       "name": "Alliance Resource Partners, L.P.",
       "marketCap": "$3,203,604,145",
@@ -329,7 +329,7 @@
       "marketCap": "$2,102,762,148",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "1"
     },
     {
       "eps": "$0.10",
@@ -409,9 +409,9 @@
       "noOfEsts": "3"
     },
     {
-      "eps": "$1.04",
-      "surprise": "2.97",
-      "time": "time-not-supplied",
+      "eps": "$0.78",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "LKFN",
       "name": "Lakeland Financial Corporation",
       "marketCap": "$1,508,157,564",
@@ -420,9 +420,9 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "$0.77",
+      "eps": "$0.73",
       "surprise": "N/A",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "DEA",
       "name": "Easterly Government Properties, Inc.",
       "marketCap": "$1,090,156,798",
@@ -431,9 +431,9 @@
       "noOfEsts": "N/A"
     },
     {
-      "eps": "$0.68",
-      "surprise": "9.68",
-      "time": "time-not-supplied",
+      "eps": "$0.61",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "HBT",
       "name": "HBT Financial, Inc.",
       "marketCap": "$1,025,004,429",
@@ -453,9 +453,9 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "$0.73",
-      "surprise": "5.8",
-      "time": "time-not-supplied",
+      "eps": "$0.65",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "BFST",
       "name": "Business First Bancshares, Inc.",
       "marketCap": "$923,882,165",
@@ -505,12 +505,12 @@
       "marketCap": "$565,669,195",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "1"
     },
     {
-      "eps": "($0.25)",
-      "surprise": "19.35",
-      "time": "time-not-supplied",
+      "eps": "($0.28)",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "FULC",
       "name": "Fulcrum Therapeutics, Inc.",
       "marketCap": "$522,145,639",
@@ -530,8 +530,8 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "$0.96",
-      "surprise": "17.07",
+      "eps": "$0.65",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "BSRR",
       "name": "Sierra Bancorp",
@@ -560,12 +560,12 @@
       "marketCap": "$436,956,411",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "1"
     },
     {
-      "eps": "$0.53",
-      "surprise": "-5.36",
-      "time": "time-not-supplied",
+      "eps": "$0.30",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "BMRC",
       "name": "Bank of Marin Bancorp",
       "marketCap": "$418,827,720",
@@ -593,7 +593,7 @@
       "marketCap": "$395,049,945",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "1"
     },
     {
       "eps": "$0.25",
@@ -604,7 +604,7 @@
       "marketCap": "$391,920,420",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "1"
     },
     {
       "eps": "($0.42)",
@@ -618,9 +618,9 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "$0.72",
-      "surprise": "-11.11",
-      "time": "time-not-supplied",
+      "eps": "$0.63",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "NWFL",
       "name": "Norwood Financial Corp.",
       "marketCap": "$336,070,523",
@@ -673,8 +673,8 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "$0.39",
-      "surprise": "8.33",
+      "eps": "$0.32",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "CZWI",
       "name": "Citizens Community Bancorp, Inc.",
@@ -703,7 +703,7 @@
       "marketCap": "$74,433,056",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "1"
     },
     {
       "eps": "($0.18)",
