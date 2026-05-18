@@ -79,6 +79,17 @@
       "noOfEsts": "2"
     },
     {
+      "lastYearRptDt": "6/03/2025",
+      "lastYearEPS": "$0.75",
+      "time": "time-pre-market",
+      "symbol": "OLLI",
+      "name": "Ollie's Bargain Outlet Holdings, Inc.",
+      "marketCap": "$4,777,076,903",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "$0.87",
+      "noOfEsts": "6"
+    },
+    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
       "time": "time-after-hours",
@@ -87,7 +98,7 @@
       "marketCap": "$4,371,432,243",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.07)",
-      "noOfEsts": "1"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "6/04/2025",
@@ -120,7 +131,7 @@
       "marketCap": "$3,111,485,467",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.21)",
-      "noOfEsts": "1"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "5/28/2025",
@@ -156,17 +167,6 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "6/04/2025",
-      "lastYearEPS": "($2.05)",
-      "time": "time-not-supplied",
-      "symbol": "GCO",
-      "name": "Genesco Inc.",
-      "marketCap": "$347,680,332",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "($2.55)",
-      "noOfEsts": "1"
-    },
-    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "($0.02)",
       "time": "time-pre-market",
@@ -175,7 +175,7 @@
       "marketCap": "$285,719,536",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -186,29 +186,18 @@
       "marketCap": "$236,006,252",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "6/04/2025",
       "lastYearEPS": "$2",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "CHPT",
       "name": "ChargePoint Holdings, Inc.",
       "marketCap": "$166,274,567",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($1.82)",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.90)",
-      "time": "time-not-supplied",
-      "symbol": "BNAI",
-      "name": "Brand Engagement Network Inc.",
-      "marketCap": "$135,670,238",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "6/04/2025",
@@ -222,17 +211,6 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "6/04/2025",
-      "lastYearEPS": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "BARK",
-      "name": "BARK, Inc.",
-      "marketCap": "$80,367,540",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "($0.03)",
       "time": "time-not-supplied",
@@ -241,7 +219,7 @@
       "marketCap": "$52,653,832",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "2"
     }
   ]
 }
