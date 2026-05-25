@@ -332,6 +332,17 @@
       "noOfEsts": "7"
     },
     {
+      "lastYearRptDt": "5/21/2025",
+      "lastYearEPS": "$0.05",
+      "time": "time-after-hours",
+      "symbol": "AMSC",
+      "name": "American Superconductor Corporation",
+      "marketCap": "$2,352,999,125",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "$0.11",
+      "noOfEsts": "2"
+    },
+    {
       "lastYearRptDt": "5/28/2025",
       "lastYearEPS": "($4.90)",
       "time": "time-pre-market",
@@ -541,6 +552,17 @@
       "noOfEsts": "1"
     },
     {
+      "lastYearRptDt": "5/21/2025",
+      "lastYearEPS": "($0.03)",
+      "time": "time-not-supplied",
+      "symbol": "SDA",
+      "name": "SunCar Technology Group Inc.",
+      "marketCap": "$61,275,791",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "($0.07)",
       "time": "time-not-supplied",
@@ -560,6 +582,17 @@
       "marketCap": "$26,421,979",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($1.02)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($1.40)",
+      "time": "time-not-supplied",
+      "symbol": "SEGG",
+      "name": "Sports Entertainment Gaming Global Corporation ",
+      "marketCap": "$25,539,763",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
       "noOfEsts": "1"
     },
     {
