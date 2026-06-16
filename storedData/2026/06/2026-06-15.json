@@ -13,9 +13,9 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "$0.04",
+      "eps": "($0.09)",
       "surprise": "N/A",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "AIOT",
       "name": "PowerFleet, Inc.",
       "marketCap": "$566,101,509",
@@ -35,9 +35,9 @@
       "noOfEsts": "4"
     },
     {
-      "eps": "($0.17)",
-      "surprise": "-183.33",
-      "time": "time-not-supplied",
+      "eps": "($0.94)",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "CGC",
       "name": "Canopy Growth Corporation",
       "marketCap": "$432,720,523",
@@ -79,9 +79,9 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "($0.26)",
-      "surprise": "13.33",
-      "time": "time-not-supplied",
+      "eps": "($0.22)",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "CMTL",
       "name": "Comtech Telecommunications Corp.",
       "marketCap": "$143,615,795",
@@ -99,39 +99,6 @@
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.41)",
       "noOfEsts": "2"
-    },
-    {
-      "eps": "$0.15",
-      "surprise": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "CODA",
-      "name": "Coda Octopus Group, Inc.",
-      "marketCap": "$123,135,580",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "eps": "($0.43)",
-      "surprise": "10.42",
-      "time": "time-not-supplied",
-      "symbol": "ENGN",
-      "name": "enGene Therapeutics Inc.",
-      "marketCap": "$108,522,935",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "($0.48)",
-      "noOfEsts": "5"
-    },
-    {
-      "eps": "$0.12",
-      "surprise": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "JRSH",
-      "name": "Jerash Holdings (US), Inc.",
-      "marketCap": "$43,941,792",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
     },
     {
       "eps": "N/A",
