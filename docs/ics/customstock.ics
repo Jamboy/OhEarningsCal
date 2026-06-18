@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:2Kd_Hhqw4eO-MekKd22CZ
+UID:ETznaUQB48LS8SBsHkFm6
 SUMMARY:ASP Isotopes 发布财报
-DTSTAMP:20260618T090539Z
+DTSTAMP:20260618T190347Z
 DTSTART;VALUE=DATE:20260520
 DESCRIPTION:财务季度：Mar/2026。\n代码：ASPI，公司：ASP Isotopes，行业: 材料科技。\n预计每股收益: ，当前市
 	值: $662\,252\,131。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ASPI \n在富
@@ -42,9 +42,9 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8sODBBbuQNJExfHEklR2M
+UID:3xW8q3z3zVb09eOuusCsG
 SUMMARY:英伟达 发布财报
-DTSTAMP:20260618T090539Z
+DTSTAMP:20260618T190347Z
 DTSTART;VALUE=DATE:20260520
 DESCRIPTION:财务季度：Apr/2026。\n代码：NVDA，公司：英伟达，行业: 半导体/AI。\n预计每股收益: $1.70，当前市值:
 	 $5\,433\,034\,330\,281。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVD
@@ -78,9 +78,9 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6W47NoqeSy7e4dXHs25DA
+UID:xtsZUHlA3jphVjOEU7_fC
 SUMMARY:蔚来汽车 发布财报
-DTSTAMP:20260618T090539Z
+DTSTAMP:20260618T190347Z
 DTSTART;VALUE=DATE:20260521
 DESCRIPTION:财务季度：Mar/2026。\n代码：NIO，公司：蔚来汽车，行业: 汽车/新能源。\n预计每股收益: ($0.24)，当前市
 	值: $14\,031\,735\,323。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \
@@ -114,9 +114,9 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bCpKfJBjitICvYU_lHxxq
+UID:3p9Yxva1kxOdgMCq_HqxJ
 SUMMARY:拼多多 发布财报
-DTSTAMP:20260618T090539Z
+DTSTAMP:20260618T190347Z
 DTSTART;VALUE=DATE:20260527
 DESCRIPTION:财务季度：Mar/2026。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.03，当前市值: $1
 	23\,280\,367\,574。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -150,9 +150,9 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:VvmHUDCdYptlL3dUswLOW
+UID:YXAr8pvPAToG8lUq0d2c8
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20260618T090539Z
+DTSTAMP:20260618T190347Z
 DTSTART;VALUE=DATE:20260528
 DESCRIPTION:财务季度：Mar/2026。\n代码：XPEV，公司：小鹏汽车，行业: 汽车/新能源。\n预计每股收益: ，当前市值: $15
 	\,713\,833\,692。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查
@@ -186,9 +186,9 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tK7cO1Z8kiPFPik8egSn8
+UID:n5EWexLpkzZDcpg9Y9Gbx
 SUMMARY:UiPath 发布财报
-DTSTAMP:20260618T090539Z
+DTSTAMP:20260618T190347Z
 DTSTART;VALUE=DATE:20260528
 DESCRIPTION:财务季度：Apr/2026。\n代码：PATH，公司：UiPath，行业: 软件/AI。\n预计每股收益: $0.04，当前市
 	值: $6\,026\,734\,537。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PATH \
@@ -222,9 +222,9 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7w4hh9pFZlWTV9j7EQyNf
+UID:qfaJvcG3_OLnWUBG6oTXY
 SUMMARY:博通 发布财报
-DTSTAMP:20260618T090539Z
+DTSTAMP:20260618T190347Z
 DTSTART;VALUE=DATE:20260603
 DESCRIPTION:财务季度：Apr/2026。\n代码：AVGO，公司：博通，行业: 半导体/网络。\n预计每股收益: $2.02，当前市值: 
 	$2\,268\,995\,033\,818。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO
@@ -258,9 +258,9 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ldafXweH0KUFEA23A1SBg
+UID:TrAc8VFhHkDs4oko2NNxM
 SUMMARY:甲骨文 发布财报
-DTSTAMP:20260618T090539Z
+DTSTAMP:20260618T190347Z
 DTSTART;VALUE=DATE:20260610
 DESCRIPTION:财务季度：May/2026。\n代码：ORCL，公司：甲骨文，行业: 软件/云服务。\n预计每股收益: $1.58，当前市值:
 	 $578\,833\,017\,960。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \
@@ -294,12 +294,12 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:okCUh1QAggtcigq9sRVQj
+UID:v6Pe7hZbfBUnHNcM3VwpL
 SUMMARY:美光科技 盘后发布财报
-DTSTAMP:20260618T090539Z
+DTSTAMP:20260618T190347Z
 DTSTART;VALUE=DATE:20260624
 DESCRIPTION:财务季度：May/2026。\n代码：MU，公司：美光科技，行业: 半导体/存储。\n预计每股收益: $19.40，当前市值:
-	 $1\,151\,145\,809\,899。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU 
+	 $1\,176\,440\,884\,663。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU 
 	\n在富途查看：https://www.futunn.com/hk/stock/MU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -330,12 +330,12 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gcyKHZgPveia6Q6jVrbR4
+UID:2rmstUh8xYejZAIsBMIv4
 SUMMARY:阿斯麦 盘前发布财报
-DTSTAMP:20260618T090539Z
+DTSTAMP:20260618T190347Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：Jun/2026。\n代码：ASML，公司：阿斯麦，行业: 半导体设备。\n预计每股收益: $8.01，当前市值: 
-	$695\,251\,071\,717。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ASML \n
+	$719\,894\,677\,217。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ASML \n
 	在富途查看：https://www.futunn.com/hk/stock/ASML-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -366,12 +366,12 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LvsztksULy0l11WTAnobH
+UID:Ja6SgCFCxjl-yjwtWTeMW
 SUMMARY:台积电 发布财报
-DTSTAMP:20260618T090539Z
+DTSTAMP:20260618T190347Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSM，公司：台积电，行业: 半导体制造。\n预计每股收益: $3.69，当前市值: $
-	2\,208\,569\,383\,270。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \
+	2\,241\,348\,094\,264。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \
 	n在富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -402,12 +402,12 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nBiIqjLNActswZcHimXyh
+UID:72KMC3lQMN8fd4bnPM4YQ
 SUMMARY:联合健康 盘前发布财报
-DTSTAMP:20260618T090539Z
+DTSTAMP:20260618T190347Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：UNH，公司：联合健康，行业: 医疗保险。\n预计每股收益: $4.84，当前市值: $
-	370\,205\,066\,291。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n在富
+	362\,830\,933\,730。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n在富
 	途查看：https://www.futunn.com/hk/stock/UNH-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -438,12 +438,12 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:PodyP49BYtej0xEE-C4vS
+UID:V4YkpLAW1J7ypnqaqVAAV
 SUMMARY:奈飞 盘后发布财报
-DTSTAMP:20260618T090539Z
+DTSTAMP:20260618T190347Z
 DTSTART;VALUE=DATE:20260716
-DESCRIPTION:财务季度：Jun/2026。\n代码：NFLX，公司：奈飞，行业: 流媒体。\n预计每股收益: $0.79，当前市值: $33
-	1\,474\,060\,124。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX \n在富途
+DESCRIPTION:财务季度：Jun/2026。\n代码：NFLX，公司：奈飞，行业: 流媒体。\n预计每股收益: $0.79，当前市值: $32
+	4\,063\,054\,715。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX \n在富途
 	查看：https://www.futunn.com/hk/stock/NFLX-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -474,12 +474,12 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:N4Nj9vr6O-YTi0VhsBD6M
+UID:ZKXWfnZs-AfkmP1W3mAvz
 SUMMARY:Elevance Health 发布财报
-DTSTAMP:20260618T090539Z
+DTSTAMP:20260618T190347Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：ELV，公司：Elevance Health，行业: 医疗健康。\n预计每股收益: $6
-	.15，当前市值: $86\,387\,194\,764。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
+	.15，当前市值: $84\,969\,124\,423。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
 	l=ELV \n在富途查看：https://www.futunn.com/hk/stock/ELV-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
