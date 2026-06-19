@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:OUh2rGrVCyPBeP_AnLPkt
+UID:3z4ltP-g0Ztvt6IbLDyms
 SUMMARY:沃尔玛 发布财报
-DTSTAMP:20260619T092143Z
+DTSTAMP:20260619T182004Z
 DTSTART;VALUE=DATE:20260521
 DESCRIPTION:财务季度：Apr/2026。\n代码：WMT，公司：沃尔玛，行业: 零售。\n预计每股收益: $0.65，当前市值: $967
 	\,371\,319\,471。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WMT \n在富途查看
@@ -42,9 +42,9 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:QG5rrVQdfE8_1GZEWNYL8
+UID:EA3fAVubpWc77v8zGnXEG
 SUMMARY:赛富时 发布财报
-DTSTAMP:20260619T092143Z
+DTSTAMP:20260619T182004Z
 DTSTART;VALUE=DATE:20260527
 DESCRIPTION:财务季度：Apr/2026。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $2.30，当前市值: $1
 	63\,841\,730\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
@@ -78,9 +78,9 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:QHpNwOS_l4Zf7J5_od9tX
+UID:n8grWM6EvbQNEK_WmktBm
 SUMMARY:耐克 盘后发布财报
-DTSTAMP:20260619T092143Z
+DTSTAMP:20260619T182004Z
 DTSTART;VALUE=DATE:20260630
 DESCRIPTION:财务季度：May/2026。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.11，当前市值: $65\,
 	440\,397\,988。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：h
@@ -114,9 +114,9 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:o7IKI1L5d93UXG-A0FFHs
+UID:T3y0ioyXJa9KTzV-UBWck
 SUMMARY:摩根大通 盘前发布财报
-DTSTAMP:20260619T092143Z
+DTSTAMP:20260619T182004Z
 DTSTART;VALUE=DATE:20260714
 DESCRIPTION:财务季度：Jun/2026。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $5.44，当前市值: $89
 	3\,509\,877\,446。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
@@ -150,11 +150,11 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_JYLEhAR40eXNB4LbQwMP
+UID:VkGVq2wWMwK4CLLr_EkOz
 SUMMARY:高盛 盘前发布财报
-DTSTAMP:20260619T092143Z
+DTSTAMP:20260619T182004Z
 DTSTART;VALUE=DATE:20260714
-DESCRIPTION:财务季度：Jun/2026。\n代码：GS，公司：高盛，行业: 银行、金融服务。\n预计每股收益: $13.59，当前市值: 
+DESCRIPTION:财务季度：Jun/2026。\n代码：GS，公司：高盛，行业: 银行、金融服务。\n预计每股收益: $13.64，当前市值: 
 	$324\,254\,456\,718。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GS \n在富
 	途查看：https://www.futunn.com/hk/stock/GS-US 
 STATUS:CONFIRMED
@@ -186,9 +186,9 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3OqjOWKP4uAR7xOtdk1Wc
+UID:rIH3wWpEOkr44gfWssQVF
 SUMMARY:强生 盘前发布财报
-DTSTAMP:20260619T092143Z
+DTSTAMP:20260619T182004Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：Jun/2026。\n代码：JNJ，公司：强生，行业: 制药。\n预计每股收益: $2.83，当前市值: $563\
 	,770\,214\,608。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在富途查看：
@@ -222,9 +222,9 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HwVh_yoVp7WZ-sx9y6ISo
+UID:CWQEB51gSFuCgs4J1cJIE
 SUMMARY:联合健康保险 盘前发布财报
-DTSTAMP:20260619T092143Z
+DTSTAMP:20260619T182004Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：UNH，公司：联合健康保险，行业: 保健管理。\n预计每股收益: $4.84，当前市值:
 	 $362\,830\,933\,730。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
@@ -258,9 +258,9 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dXkF8kSZFbTkmPUqyFPm3
+UID:IWdSuugEf62xp6EehWV90
 SUMMARY:3M 发布财报
-DTSTAMP:20260619T092143Z
+DTSTAMP:20260619T182004Z
 DTSTART;VALUE=DATE:20260717
 DESCRIPTION:财务季度：Jun/2026。\n代码：MMM，公司：3M，行业: 综合企业。\n预计每股收益: $2.24，当前市值: $83
 	\,049\,154\,969。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MMM \n在富途查看
@@ -294,9 +294,9 @@ TRIGGER:-P14DT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:B7cN_BfOjzhR342958cKQ
+UID:M-zwnZl6voJQhDBM8zIr_
 SUMMARY:旅行者保险 盘前发布财报
-DTSTAMP:20260619T092143Z
+DTSTAMP:20260619T182004Z
 DTSTART;VALUE=DATE:20260717
 DESCRIPTION:财务季度：Jun/2026。\n代码：TRV，公司：旅行者保险，行业: 保险。\n预计每股收益: $4.87，当前市值: $6
 	5\,084\,161\,187。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TRV \n在富途查
