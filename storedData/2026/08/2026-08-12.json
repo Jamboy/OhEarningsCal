@@ -592,7 +592,7 @@
       "name": "Avino Silver",
       "marketCap": "$964,214,686",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.09",
+      "epsForecast": "$0.06",
       "noOfEsts": "1"
     },
     {
@@ -872,17 +872,6 @@
     },
     {
       "lastYearRptDt": "8/13/2025",
-      "lastYearEPS": "$0.46",
-      "time": "time-not-supplied",
-      "symbol": "CCAP",
-      "name": "Crescent Capital BDC, Inc.",
-      "marketCap": "$397,199,363",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.37",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "8/13/2025",
       "lastYearEPS": "N/A",
       "time": "time-after-hours",
       "symbol": "NOA",
@@ -977,8 +966,8 @@
       "name": "Vox Royalty Corp.",
       "marketCap": "$298,792,405",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.06",
-      "noOfEsts": "1"
+      "epsForecast": "$0.04",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "8/13/2025",
@@ -1400,17 +1389,6 @@
     },
     {
       "lastYearRptDt": "8/13/2025",
-      "lastYearEPS": "($0.12)",
-      "time": "time-not-supplied",
-      "symbol": "HYPR",
-      "name": "Hyperfine, Inc. ",
-      "marketCap": "$94,684,046",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.09)",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "8/13/2025",
       "lastYearEPS": "($0.61)",
       "time": "time-not-supplied",
       "symbol": "KLRS",
@@ -1529,17 +1507,6 @@
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($0.49)",
       "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "PEW",
-      "name": "GrabAGun Digital Holdings Inc.",
-      "marketCap": "$69,972,174",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.09)",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1694,17 +1661,6 @@
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($0.51)",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.27)",
-      "time": "time-not-supplied",
-      "symbol": "VIP",
-      "name": "Vulcan Infrastructure and Power Inc.",
-      "marketCap": "$45,508,279",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
