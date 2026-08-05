@@ -65,7 +65,7 @@
       "marketCap": "$5,364,098,340",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "$0.09",
-      "noOfEsts": "1"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "9/02/2025",
@@ -98,7 +98,7 @@
       "marketCap": "$1,658,720,550",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.45",
-      "noOfEsts": "1"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "N/A",
@@ -109,7 +109,7 @@
       "marketCap": "$1,234,844,014",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "9/02/2025",
@@ -131,7 +131,7 @@
       "marketCap": "$74,002,539",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "N/A",
@@ -142,7 +142,7 @@
       "marketCap": "$1,342,053",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "5"
     }
   ]
 }
