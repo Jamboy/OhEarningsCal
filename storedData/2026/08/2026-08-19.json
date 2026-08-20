@@ -219,7 +219,7 @@
       "marketCap": "$1,698,531,976",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($0.44)",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -230,7 +230,7 @@
       "marketCap": "$1,635,042,297",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -241,7 +241,7 @@
       "marketCap": "$1,444,058,575",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "8/13/2025",
@@ -274,7 +274,7 @@
       "marketCap": "$386,655,925",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "8/19/2025",
@@ -296,7 +296,7 @@
       "marketCap": "$218,334,195",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "8/20/2025",
@@ -351,7 +351,7 @@
       "marketCap": "$121,927,842",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -373,7 +373,7 @@
       "marketCap": "$62,580,346",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -395,7 +395,7 @@
       "marketCap": "$53,757,401",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -406,7 +406,7 @@
       "marketCap": "$37,623,382",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "8/19/2025",
@@ -461,7 +461,7 @@
       "marketCap": "$8,487,034",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -472,7 +472,7 @@
       "marketCap": "$6,270,375",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -483,7 +483,7 @@
       "marketCap": "$5,944,740",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -495,17 +495,6 @@
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($99.99)",
-      "time": "time-after-hours",
-      "symbol": "JAGX",
-      "name": "Jaguar Health, Inc.",
-      "marketCap": "$4,795,008",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "8/13/2025",
@@ -527,7 +516,7 @@
       "marketCap": "",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -538,7 +527,7 @@
       "marketCap": "",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     }
   ]
 }
