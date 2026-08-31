@@ -43,7 +43,7 @@
       "marketCap": "$117,658,264",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -66,17 +66,6 @@
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($0.03)",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.02)",
-      "time": "time-not-supplied",
-      "symbol": "GROW",
-      "name": "U.S. Global Investors, Inc.",
-      "marketCap": "$41,554,056",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "3"
     }
   ]
 }

@@ -13,6 +13,17 @@
       "noOfEsts": "N/A"
     },
     {
+      "lastYearRptDt": "7/11/2025",
+      "lastYearEPS": "($0.16)",
+      "time": "time-not-supplied",
+      "symbol": "NB",
+      "name": "NioCorp Developments Ltd.",
+      "marketCap": "$636,215,420",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($0.03)",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "9/25/2025",
       "lastYearEPS": "$0.20",
       "time": "time-pre-market",
@@ -32,7 +43,7 @@
       "marketCap": "$228,781,104",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -43,7 +54,7 @@
       "marketCap": "$152,477,712",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -79,17 +90,6 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "9/05/2025",
-      "lastYearEPS": "($0.31)",
-      "time": "time-not-supplied",
-      "symbol": "IBIO",
-      "name": "iBio, Inc.",
-      "marketCap": "$69,549,984",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.07)",
-      "noOfEsts": "5"
-    },
-    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "($1.02)",
       "time": "time-not-supplied",
@@ -98,7 +98,7 @@
       "marketCap": "$60,786,520",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -120,7 +120,7 @@
       "marketCap": "$54,480,816",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "8/29/2025",
@@ -137,10 +137,32 @@
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
       "time": "time-not-supplied",
+      "symbol": "LNAI",
+      "name": "Lunai Bioworks Inc.",
+      "marketCap": "$10,654,642",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
       "symbol": "BMRA",
       "name": "Biomerica, Inc.",
       "marketCap": "$9,416,345",
       "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.22)",
+      "time": "time-not-supplied",
+      "symbol": "GITS",
+      "name": "Global Interactive Technologies, Inc. Common Stock",
+      "marketCap": "$6,613,574",
+      "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
     }

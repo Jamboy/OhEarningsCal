@@ -175,7 +175,7 @@
       "marketCap": "$3,659,776,260",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "8/28/2025",
@@ -208,7 +208,7 @@
       "marketCap": "$2,743,264,510",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "7/31/2025",
@@ -329,7 +329,7 @@
       "marketCap": "$380,955,584",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "8/28/2025",
@@ -362,17 +362,6 @@
       "marketCap": "$341,096,640",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($0.10)",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "9/04/2025",
-      "lastYearEPS": "($0.06)",
-      "time": "time-not-supplied",
-      "symbol": "ZUMZ",
-      "name": "Zumiez Inc.",
-      "marketCap": "$297,625,888",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "($0.12)",
       "noOfEsts": "2"
     },
     {
@@ -450,7 +439,7 @@
       "marketCap": "$102,760,024",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -459,6 +448,17 @@
       "symbol": "YRD",
       "name": "Yiren Digital Ltd.",
       "marketCap": "$94,487,536",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.02)",
+      "time": "time-after-hours",
+      "symbol": "GROW",
+      "name": "U.S. Global Investors, Inc.",
+      "marketCap": "$41,554,056",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -483,7 +483,7 @@
       "marketCap": "$20,012,668",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -494,7 +494,7 @@
       "marketCap": "$19,708,054",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -505,7 +505,7 @@
       "marketCap": "$14,321,489",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -549,7 +549,7 @@
       "marketCap": "$3,060,562",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "8/14/2025",
