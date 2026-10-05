@@ -108,7 +108,7 @@
       "name": "CME Group Inc.",
       "marketCap": "$95,324,463,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$2.96",
+      "epsForecast": "$2.93",
       "noOfEsts": "7"
     },
     {
@@ -189,14 +189,14 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/15/2025",
-      "lastYearEPS": "$1.76",
-      "time": "time-not-supplied",
-      "symbol": "JBHT",
-      "name": "J.B. Hunt Transport Services, Inc.",
-      "marketCap": "$21,337,475,100",
+      "lastYearRptDt": "10/22/2025",
+      "lastYearEPS": "$0.11",
+      "time": "time-after-hours",
+      "symbol": "LUV",
+      "name": "Southwest Airlines Company",
+      "marketCap": "$20,468,471,800",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$2",
+      "epsForecast": "$0.62",
       "noOfEsts": "9"
     },
     {
@@ -245,6 +245,17 @@
     },
     {
       "lastYearRptDt": "10/22/2025",
+      "lastYearEPS": "$0.73",
+      "time": "time-after-hours",
+      "symbol": "GGG",
+      "name": "Graco Inc.",
+      "marketCap": "$12,593,529,900",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.82",
+      "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "10/22/2025",
       "lastYearEPS": "$0.32",
       "time": "time-after-hours",
       "symbol": "KNX",
@@ -264,6 +275,17 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$2.42",
       "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "10/22/2025",
+      "lastYearEPS": "$2.58",
+      "time": "time-after-hours",
+      "symbol": "SSB",
+      "name": "SouthState Bank Corporation",
+      "marketCap": "$9,756,607,500",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$2.39",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "10/22/2025",
@@ -376,6 +398,28 @@
       "noOfEsts": "1"
     },
     {
+      "lastYearRptDt": "10/21/2025",
+      "lastYearEPS": "$0.55",
+      "time": "time-after-hours",
+      "symbol": "FULT",
+      "name": "Fulton Financial Corporation",
+      "marketCap": "$4,312,759,800",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.55",
+      "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "10/22/2025",
+      "lastYearEPS": "$0.94",
+      "time": "time-after-hours",
+      "symbol": "WSBC",
+      "name": "WesBanco, Inc.",
+      "marketCap": "$3,607,979,520",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.88",
+      "noOfEsts": "5"
+    },
+    {
       "lastYearRptDt": "10/15/2025",
       "lastYearEPS": "$1.58",
       "time": "time-after-hours",
@@ -406,6 +450,17 @@
       "marketCap": "$3,043,041,790",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.07",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "10/22/2025",
+      "lastYearEPS": "$1.56",
+      "time": "time-after-hours",
+      "symbol": "WDFC",
+      "name": "WD-40 Company",
+      "marketCap": "$2,715,490,300",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$1.11",
       "noOfEsts": "3"
     },
     {
@@ -493,7 +548,7 @@
       "name": "Triumph Financial, Inc.",
       "marketCap": "$1,460,673,020",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.58",
+      "epsForecast": "$0.60",
       "noOfEsts": "4"
     },
     {

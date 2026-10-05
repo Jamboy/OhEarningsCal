@@ -98,7 +98,7 @@
       "marketCap": "$84,250,165,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.36",
-      "noOfEsts": "8"
+      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "10/30/2025",
@@ -114,12 +114,12 @@
     {
       "lastYearRptDt": "10/23/2025",
       "lastYearEPS": "$3.30",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "NSC",
       "name": "Norfolk Southern Corporation",
       "marketCap": "$69,686,993,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$3.56",
+      "epsForecast": "$3.52",
       "noOfEsts": "5"
     },
     {
@@ -132,17 +132,6 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$2.17",
       "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "10/23/2025",
-      "lastYearEPS": "$1.89",
-      "time": "time-not-supplied",
-      "symbol": "DLR",
-      "name": "Digital Realty Trust, Inc.",
-      "marketCap": "$65,307,685,000",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.98",
-      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "10/23/2025",
@@ -165,6 +154,17 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$12.42",
       "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "10/21/2025",
+      "lastYearEPS": "$0.88",
+      "time": "time-pre-market",
+      "symbol": "NDAQ",
+      "name": "Nasdaq, Inc.",
+      "marketCap": "$51,241,456,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$1.02",
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "10/23/2025",
@@ -246,7 +246,7 @@
     {
       "lastYearRptDt": "10/23/2025",
       "lastYearEPS": "$2.27",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "VRSN",
       "name": "VeriSign, Inc.",
       "marketCap": "$25,907,071,000",
@@ -344,17 +344,6 @@
     },
     {
       "lastYearRptDt": "10/23/2025",
-      "lastYearEPS": "$0.46",
-      "time": "time-not-supplied",
-      "symbol": "DOC",
-      "name": "Healthpeak Properties, Inc.",
-      "marketCap": "$13,404,409,900",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.43",
-      "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "10/23/2025",
       "lastYearEPS": "$2.30",
       "time": "time-not-supplied",
       "symbol": "ALLE",
@@ -399,17 +388,6 @@
     },
     {
       "lastYearRptDt": "10/23/2025",
-      "lastYearEPS": "$0.12",
-      "time": "time-not-supplied",
-      "symbol": "DAR",
-      "name": "Darling Ingredients Inc.",
-      "marketCap": "$9,726,971,900",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.86",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "10/23/2025",
       "lastYearEPS": "$1.11",
       "time": "time-not-supplied",
       "symbol": "ORI",
@@ -443,19 +421,8 @@
     },
     {
       "lastYearRptDt": "10/23/2025",
-      "lastYearEPS": "$2.67",
-      "time": "time-not-supplied",
-      "symbol": "MHK",
-      "name": "Mohawk Industries, Inc.",
-      "marketCap": "$8,475,396,600",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$2.57",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "10/23/2025",
       "lastYearEPS": "($0.11)",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "MXL",
       "name": "MaxLinear, Inc",
       "marketCap": "$8,354,656,800",
@@ -587,7 +554,7 @@
     {
       "lastYearRptDt": "10/23/2025",
       "lastYearEPS": "$0.73",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "ASB",
       "name": "Associated Banc-Corp",
       "marketCap": "$5,423,762,400",
@@ -779,7 +746,7 @@
       "name": "Kilroy Realty Corporation",
       "marketCap": "$3,873,089,280",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.89",
+      "epsForecast": "$0.88",
       "noOfEsts": "3"
     },
     {
@@ -839,17 +806,6 @@
     },
     {
       "lastYearRptDt": "10/23/2025",
-      "lastYearEPS": "$0.76",
-      "time": "time-not-supplied",
-      "symbol": "FFBC",
-      "name": "First Financial Bancorp.",
-      "marketCap": "$3,313,809,920",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.82",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "10/23/2025",
       "lastYearEPS": "$0.27",
       "time": "time-after-hours",
       "symbol": "KN",
@@ -857,17 +813,6 @@
       "marketCap": "$3,265,236,740",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.30",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "10/23/2025",
-      "lastYearEPS": "$0.86",
-      "time": "time-not-supplied",
-      "symbol": "AB",
-      "name": "AllianceBernstein Holding L.P.",
-      "marketCap": "$3,258,563,330",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.87",
       "noOfEsts": "1"
     },
     {
@@ -891,17 +836,6 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.30",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "10/23/2025",
-      "lastYearEPS": "$1.72",
-      "time": "time-not-supplied",
-      "symbol": "MGRC",
-      "name": "McGrath RentCorp",
-      "marketCap": "$2,808,707,070",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.80",
-      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "10/23/2025",
@@ -1021,7 +955,7 @@
       "name": "Dime Commercial Bancshares, Inc.",
       "marketCap": "$1,745,068,670",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.88",
+      "epsForecast": "$0.87",
       "noOfEsts": "4"
     },
     {
@@ -1033,7 +967,7 @@
       "marketCap": "$1,728,361,730",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.99",
-      "noOfEsts": "4"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "10/23/2025",
@@ -1168,17 +1102,6 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.67",
-      "time": "time-not-supplied",
-      "symbol": "MCB",
-      "name": "Metropolitan Bank Holding Corp.",
-      "marketCap": "$1,086,045,310",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "8"
-    },
-    {
       "lastYearRptDt": "10/23/2025",
       "lastYearEPS": "$0.03",
       "time": "time-not-supplied",
@@ -1213,17 +1136,6 @@
     },
     {
       "lastYearRptDt": "10/23/2025",
-      "lastYearEPS": "$0.72",
-      "time": "time-not-supplied",
-      "symbol": "BFST",
-      "name": "Business First Bancshares, Inc.",
-      "marketCap": "$991,469,440",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.74",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "10/23/2025",
       "lastYearEPS": "$0.44",
       "time": "time-not-supplied",
       "symbol": "SMPL",
@@ -1234,7 +1146,7 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "N/A",
+      "lastYearRptDt": "10/23/2025",
       "lastYearEPS": "($0.38)",
       "time": "time-not-supplied",
       "symbol": "WRLD",
@@ -1242,7 +1154,7 @@
       "marketCap": "$800,341,570",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "10/23/2025",
@@ -1254,17 +1166,6 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.97",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "10/23/2025",
-      "lastYearEPS": "$0.99",
-      "time": "time-not-supplied",
-      "symbol": "FISI",
-      "name": "Financial Institutions, Inc.",
-      "marketCap": "$778,007,100",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.05",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "10/23/2025",
@@ -1509,6 +1410,17 @@
       "noOfEsts": "3"
     },
     {
+      "lastYearRptDt": "10/30/2025",
+      "lastYearEPS": "$1.74",
+      "time": "time-after-hours",
+      "symbol": "JAKK",
+      "name": "JAKKS Pacific, Inc.",
+      "marketCap": "$291,847,808",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$2.20",
+      "noOfEsts": "2"
+    },
+    {
       "lastYearRptDt": "10/23/2025",
       "lastYearEPS": "$0.32",
       "time": "time-not-supplied",
@@ -1593,7 +1505,7 @@
       "name": "Meridian Corporation",
       "marketCap": "$224,385,392",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.50",
+      "epsForecast": "$0.46",
       "noOfEsts": "2"
     },
     {
