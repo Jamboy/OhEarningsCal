@@ -2,36 +2,14 @@
   "date": "2026-10-05",
   "data": [
     {
-      "lastYearRptDt": "10/06/2025",
-      "lastYearEPS": "($0.05)",
+      "eps": "($0.05)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "AEHR",
       "name": "Aehr Test Systems",
       "marketCap": "$3,501,430,020",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "$0.05",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($1.27)",
-      "time": "time-not-supplied",
-      "symbol": "NCPL",
-      "name": "Netcapital Inc.",
-      "marketCap": "$10,987,059",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "9/22/2025",
-      "lastYearEPS": "$2",
-      "time": "time-not-supplied",
-      "symbol": "MSS",
-      "name": "Maison Solutions Inc.",
-      "marketCap": "$1,330,052",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "$0.57",
       "noOfEsts": "2"
     }
   ]
