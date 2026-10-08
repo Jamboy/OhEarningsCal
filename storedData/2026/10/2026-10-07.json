@@ -2,9 +2,9 @@
   "date": "2026-10-07",
   "data": [
     {
-      "lastYearRptDt": "10/09/2025",
-      "lastYearEPS": "$0.34",
-      "time": "time-after-hours",
+      "eps": "$0.48",
+      "surprise": "33.33",
+      "time": "time-not-supplied",
       "symbol": "LEVI",
       "name": "Levi Strauss & Co.",
       "marketCap": "$7,900,982,300",
@@ -13,20 +13,20 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "10/09/2025",
-      "lastYearEPS": "($0.11)",
-      "time": "time-after-hours",
+      "eps": "($0.76)",
+      "surprise": "-192.31",
+      "time": "time-not-supplied",
       "symbol": "APLD",
       "name": "Applied Digital Corporation",
       "marketCap": "$7,579,051,500",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "($0.25)",
+      "epsForecast": "($0.26)",
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "10/08/2025",
-      "lastYearEPS": "$0.13",
-      "time": "time-after-hours",
+      "eps": "$0.27",
+      "surprise": "200",
+      "time": "time-not-supplied",
       "symbol": "RELL",
       "name": "Richardson Electronics, Ltd.",
       "marketCap": "$283,163,360",
@@ -35,9 +35,9 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/08/2025",
-      "lastYearEPS": "($0.04)",
-      "time": "time-after-hours",
+      "eps": "($0.20)",
+      "surprise": "9.09",
+      "time": "time-not-supplied",
       "symbol": "RGP",
       "name": "Resources Connection, Inc.",
       "marketCap": "$128,047,808",

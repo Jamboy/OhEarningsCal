@@ -20,7 +20,7 @@
       "name": "Johnson & Johnson",
       "marketCap": "$613,993,940,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$2.90",
+      "epsForecast": "$2.82",
       "noOfEsts": "7"
     },
     {
@@ -42,7 +42,7 @@
       "name": "The Goldman Sachs Group, Inc.",
       "marketCap": "$261,233,164,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$13.35",
+      "epsForecast": "$12.90",
       "noOfEsts": "7"
     },
     {
@@ -121,17 +121,6 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.49",
       "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "10/14/2025",
-      "lastYearEPS": "$0.03",
-      "time": "time-not-supplied",
-      "symbol": "SOTK",
-      "name": "Sono-Tek Corporation",
-      "marketCap": "$105,930,712",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$0.05",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
