@@ -7,7 +7,7 @@
       "time": "time-not-supplied",
       "symbol": "PEP",
       "name": "Pepsico, Inc.",
-      "marketCap": "$168,878,031,000",
+      "marketCap": "$175,170,175,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$2.29",
       "noOfEsts": "7"
@@ -18,7 +18,7 @@
       "time": "time-not-supplied",
       "symbol": "NG",
       "name": "Novagold Resources Inc.",
-      "marketCap": "$2,797,139,970",
+      "marketCap": "$2,735,858,430",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "($0.08)",
       "noOfEsts": "1"
@@ -29,7 +29,7 @@
       "time": "time-not-supplied",
       "symbol": "NRIX",
       "name": "Nurix Therapeutics, Inc.",
-      "marketCap": "$2,358,957,570",
+      "marketCap": "$2,304,991,230",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "($0.56)",
       "noOfEsts": "5"
@@ -40,7 +40,7 @@
       "time": "time-not-supplied",
       "symbol": "ODC",
       "name": "Oil-Dri Corporation Of America",
-      "marketCap": "$1,272,220,670",
+      "marketCap": "$1,222,380,800",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -51,7 +51,7 @@
       "time": "time-not-supplied",
       "symbol": "PKE",
       "name": "Park Aerospace Corp.",
-      "marketCap": "$636,440,450",
+      "marketCap": "$645,140,930",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -62,9 +62,20 @@
       "time": "time-not-supplied",
       "symbol": "HELE",
       "name": "Helen of Troy Limited",
-      "marketCap": "$595,112,130",
+      "marketCap": "$618,404,220",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "$0.32",
+      "noOfEsts": "3"
+    },
+    {
+      "eps": "($0.32)",
+      "surprise": "-68.42",
+      "time": "time-not-supplied",
+      "symbol": "TLRY",
+      "name": "Tilray Brands, Inc.",
+      "marketCap": "$528,568,832",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "($0.19)",
       "noOfEsts": "3"
     },
     {
@@ -73,21 +84,10 @@
       "time": "time-not-supplied",
       "symbol": "ANGO",
       "name": "AngioDynamics, Inc.",
-      "marketCap": "$586,506,620",
+      "marketCap": "$464,162,720",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "($0.10)",
       "noOfEsts": "2"
-    },
-    {
-      "eps": "($0.32)",
-      "surprise": "-68.42",
-      "time": "time-not-supplied",
-      "symbol": "TLRY",
-      "name": "Tilray Brands, Inc.",
-      "marketCap": "$553,142,660",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "($0.19)",
-      "noOfEsts": "3"
     },
     {
       "eps": "($0.06)",
@@ -95,7 +95,7 @@
       "time": "time-not-supplied",
       "symbol": "RYDE",
       "name": "Ryde Group Ltd.",
-      "marketCap": "$131,565,200",
+      "marketCap": "$121,293,928",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -106,7 +106,7 @@
       "time": "time-not-supplied",
       "symbol": "BYRN",
       "name": "Byrna Technologies, Inc.",
-      "marketCap": "$94,789,256",
+      "marketCap": "$110,704,488",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "($0.15)",
       "noOfEsts": "2"
