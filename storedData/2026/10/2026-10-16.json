@@ -43,7 +43,7 @@
       "marketCap": "$55,681,720,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.17",
-      "noOfEsts": "8"
+      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "10/16/2025",
@@ -53,8 +53,8 @@
       "name": "M&T Bank Corporation",
       "marketCap": "$31,284,895,700",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$5",
-      "noOfEsts": "6"
+      "epsForecast": "$4.98",
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "10/15/2025",
@@ -65,7 +65,7 @@
       "marketCap": "$26,563,620,900",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.38",
-      "noOfEsts": "7"
+      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "10/17/2025",
@@ -128,7 +128,7 @@
       "time": "time-not-supplied",
       "symbol": "ATLO",
       "name": "Ames National Corporation",
-      "marketCap": "$282,456,736",
+      "marketCap": "$283,253,888",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.68",
       "noOfEsts": "1"
@@ -139,7 +139,7 @@
       "time": "time-not-supplied",
       "symbol": "BVFL",
       "name": "BV Financial, Inc.",
-      "marketCap": "$185,167,408",
+      "marketCap": "$182,710,928",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"

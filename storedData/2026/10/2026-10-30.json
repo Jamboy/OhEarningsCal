@@ -64,8 +64,8 @@
       "name": "Sanofi",
       "marketCap": "$98,041,938,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.72",
-      "noOfEsts": "5"
+      "epsForecast": "$1.69",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "10/28/2025",
@@ -130,7 +130,7 @@
       "name": "Cenovus Energy Inc",
       "marketCap": "$57,608,692,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.07",
+      "epsForecast": "$1.13",
       "noOfEsts": "2"
     },
     {
@@ -147,7 +147,7 @@
     {
       "lastYearRptDt": "10/31/2025",
       "lastYearEPS": "$1.06",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "D",
       "name": "Dominion Energy, Inc.",
       "marketCap": "$54,117,233,000",
@@ -198,17 +198,6 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.90",
       "noOfEsts": "9"
-    },
-    {
-      "lastYearRptDt": "10/31/2025",
-      "lastYearEPS": "$2.81",
-      "time": "time-not-supplied",
-      "symbol": "TROW",
-      "name": "T. Rowe Price Group, Inc.",
-      "marketCap": "$22,199,781,400",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$2.60",
-      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "10/30/2025",
@@ -278,17 +267,6 @@
     },
     {
       "lastYearRptDt": "10/31/2025",
-      "lastYearEPS": "$8.34",
-      "time": "time-not-supplied",
-      "symbol": "CHTR",
-      "name": "Charter Communications, Inc.",
-      "marketCap": "$12,255,208,400",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$10.13",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "10/31/2025",
       "lastYearEPS": "$2.67",
       "time": "time-pre-market",
       "symbol": "CBOE",
@@ -317,7 +295,7 @@
       "name": "Federal Realty Investment Trust",
       "marketCap": "$9,132,916,700",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.86",
+      "epsForecast": "$1.85",
       "noOfEsts": "7"
     },
     {
@@ -328,8 +306,8 @@
       "name": "Gates Industrial Corporation Ltd.",
       "marketCap": "$6,938,873,300",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.42",
-      "noOfEsts": "3"
+      "epsForecast": "$0.41",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "10/31/2025",
@@ -339,8 +317,8 @@
       "name": "OneMain Holdings, Inc.",
       "marketCap": "$6,450,375,200",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.59",
-      "noOfEsts": "5"
+      "epsForecast": "$1.61",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "10/31/2025",
@@ -432,17 +410,6 @@
     },
     {
       "lastYearRptDt": "10/31/2025",
-      "lastYearEPS": "($0.13)",
-      "time": "time-not-supplied",
-      "symbol": "BFLY",
-      "name": "Butterfly Network, Inc.",
-      "marketCap": "$2,202,178,560",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "($0.05)",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "10/31/2025",
       "lastYearEPS": "$0.61",
       "time": "time-not-supplied",
       "symbol": "TILE",
@@ -482,7 +449,7 @@
       "name": "Heartland Express, Inc.",
       "marketCap": "$872,311,870",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.03",
+      "epsForecast": "$0.02",
       "noOfEsts": "2"
     },
     {

@@ -108,7 +108,7 @@
       "name": "Principal Financial Group Inc",
       "marketCap": "$23,279,597,600",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$2.54",
+      "epsForecast": "$2.52",
       "noOfEsts": "5"
     },
     {
@@ -119,8 +119,8 @@
       "name": "Brown & Brown, Inc.",
       "marketCap": "$20,652,150,800",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.08",
-      "noOfEsts": "6"
+      "epsForecast": "$1.09",
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "10/27/2025",
@@ -570,7 +570,7 @@
       "name": "Ramaco Resources, Inc.",
       "marketCap": "$524,113,344",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "($0.27)",
+      "epsForecast": "($0.26)",
       "noOfEsts": "3"
     },
     {
@@ -660,6 +660,17 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($7.35)",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "10/23/2025",
+      "lastYearEPS": "$0.72",
+      "time": "time-after-hours",
+      "symbol": "AVBH",
+      "name": "Avidbank Holdings, Inc.",
+      "marketCap": "$342,245,248",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.88",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "10/27/2025",
