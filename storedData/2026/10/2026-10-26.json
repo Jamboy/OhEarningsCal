@@ -42,8 +42,8 @@
       "name": "Nucor Corporation",
       "marketCap": "$56,793,788,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$5.83",
-      "noOfEsts": "3"
+      "epsForecast": "$5.80",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "10/29/2025",
@@ -75,7 +75,7 @@
       "name": "The Hartford Insurance Group, Inc.",
       "marketCap": "$34,972,283,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$3.09",
+      "epsForecast": "$3.13",
       "noOfEsts": "10"
     },
     {
@@ -97,7 +97,7 @@
       "name": "Principal Financial Group Inc",
       "marketCap": "$22,960,582,700",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$2.52",
+      "epsForecast": "$2.51",
       "noOfEsts": "5"
     },
     {
@@ -108,7 +108,7 @@
       "name": "Brown & Brown, Inc.",
       "marketCap": "$21,040,300,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.09",
+      "epsForecast": "$1.08",
       "noOfEsts": "7"
     },
     {
@@ -167,17 +167,6 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "10/27/2025",
-      "lastYearEPS": "$5.69",
-      "time": "time-after-hours",
-      "symbol": "UHS",
-      "name": "Universal Health Services, Inc.",
-      "marketCap": "$10,452,390,900",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$5.37",
-      "noOfEsts": "7"
-    },
-    {
       "lastYearRptDt": "10/30/2025",
       "lastYearEPS": "$0.10",
       "time": "time-after-hours",
@@ -213,12 +202,12 @@
     {
       "lastYearRptDt": "10/27/2025",
       "lastYearEPS": "$2.58",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "SSD",
       "name": "Simpson Manufacturing Company, Inc.",
       "marketCap": "$7,013,298,700",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$2.62",
+      "epsForecast": "$2.56",
       "noOfEsts": "3"
     },
     {
@@ -267,17 +256,6 @@
     },
     {
       "lastYearRptDt": "10/27/2025",
-      "lastYearEPS": "$10.11",
-      "time": "time-not-supplied",
-      "symbol": "CAR",
-      "name": "Avis Budget Group, Inc.",
-      "marketCap": "$3,743,823,360",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$8.47",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "10/27/2025",
       "lastYearEPS": "$2.62",
       "time": "time-after-hours",
       "symbol": "DORM",
@@ -301,7 +279,7 @@
     {
       "lastYearRptDt": "10/27/2025",
       "lastYearEPS": "$0.70",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "ARLP",
       "name": "Alliance Resource Partners, L.P.",
       "marketCap": "$3,167,579,650",
@@ -362,17 +340,6 @@
       "marketCap": "$2,148,555,260",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.35",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "10/27/2025",
-      "lastYearEPS": "$1.20",
-      "time": "time-not-supplied",
-      "symbol": "EFSC",
-      "name": "Enterprise Financial Services Corporation",
-      "marketCap": "$2,120,519,810",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.38",
       "noOfEsts": "5"
     },
     {
@@ -439,6 +406,17 @@
       "marketCap": "$1,412,919,680",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.08",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "10/20/2025",
+      "lastYearEPS": "$0.65",
+      "time": "time-pre-market",
+      "symbol": "HBT",
+      "name": "HBT Financial, Inc.",
+      "marketCap": "$1,270,978,180",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.78",
       "noOfEsts": "3"
     },
     {
@@ -532,7 +510,7 @@
     {
       "lastYearRptDt": "10/27/2025",
       "lastYearEPS": "$0.05",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "VLRS",
       "name": "Controladora Vuela Compania de Aviacion, S.A.B. de C.V.",
       "marketCap": "$723,900,610",
@@ -638,6 +616,17 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "10/20/2025",
+      "lastYearEPS": "$1.31",
+      "time": "time-after-hours",
+      "symbol": "FLXS",
+      "name": "Flexsteel Industries, Inc.",
+      "marketCap": "$348,493,568",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$1.25",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "10/27/2025",

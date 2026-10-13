@@ -20,7 +20,7 @@
       "name": "The Charles Schwab Corporation",
       "marketCap": "$167,226,769,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.66",
+      "epsForecast": "$1.67",
       "noOfEsts": "10"
     },
     {
@@ -163,7 +163,7 @@
       "name": "Commercial Metals Company",
       "marketCap": "$7,067,788,800",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$1.97",
+      "epsForecast": "$1.98",
       "noOfEsts": "4"
     },
     {
@@ -275,6 +275,17 @@
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "",
       "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "10/15/2025",
+      "lastYearEPS": "($0.07)",
+      "time": "time-after-hours",
+      "symbol": "LOOP",
+      "name": "Loop Industries, Inc.",
+      "marketCap": "$20,271,376",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "($0.05)",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
