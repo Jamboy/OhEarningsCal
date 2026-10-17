@@ -24,9 +24,9 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "$8.14",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$9.18",
+      "surprise": "29.84",
+      "time": "time-not-supplied",
       "symbol": "TRV",
       "name": "The Travelers Companies, Inc.",
       "marketCap": "$80,069,861,000",
@@ -35,9 +35,9 @@
       "noOfEsts": "12"
     },
     {
-      "eps": "$1.04",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$1.16",
+      "surprise": "-0.85",
+      "time": "time-not-supplied",
       "symbol": "TFC",
       "name": "Truist Financial Corporation",
       "marketCap": "$56,891,130,000",
@@ -46,9 +46,9 @@
       "noOfEsts": "9"
     },
     {
-      "eps": "$4.87",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$5.08",
+      "surprise": "2.01",
+      "time": "time-not-supplied",
       "symbol": "MTB",
       "name": "M&T Bank Corporation",
       "marketCap": "$31,576,614,900",
@@ -57,9 +57,9 @@
       "noOfEsts": "7"
     },
     {
-      "eps": "$1.05",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$1.41",
+      "surprise": "2.17",
+      "time": "time-not-supplied",
       "symbol": "CFG",
       "name": "Citizens Financial Group, Inc.",
       "marketCap": "$26,715,244,500",
@@ -68,9 +68,9 @@
       "noOfEsts": "8"
     },
     {
-      "eps": "$0.63",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$0.73",
+      "surprise": "8.96",
+      "time": "time-not-supplied",
       "symbol": "RF",
       "name": "Regions Financial Corporation",
       "marketCap": "$23,266,195,500",
@@ -101,9 +101,9 @@
       "noOfEsts": "1"
     },
     {
-      "eps": "$0.23",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$0.35",
+      "surprise": "66.67",
+      "time": "time-not-supplied",
       "symbol": "LADR",
       "name": "Ladder Capital Corp",
       "marketCap": "$1,118,951,940",
@@ -134,8 +134,8 @@
       "noOfEsts": "1"
     },
     {
-      "eps": "$1.65",
-      "surprise": "N/A",
+      "eps": "$1.97",
+      "surprise": "-4.83",
       "time": "time-not-supplied",
       "symbol": "PBAM",
       "name": "Private Bancorp of America, Inc.",
