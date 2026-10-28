@@ -2,8 +2,8 @@
   "date": "2026-10-27",
   "data": [
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$2.98",
+      "eps": "$2.98",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "V",
       "name": "Visa Inc.",
@@ -13,8 +13,8 @@
       "noOfEsts": "12"
     },
     {
-      "lastYearRptDt": "10/21/2025",
-      "lastYearEPS": "$0.82",
+      "eps": "$0.82",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "KO",
       "name": "Coca-Cola Company (The)",
@@ -24,8 +24,8 @@
       "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$1.80",
+      "eps": "$1.80",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "HSBC",
       "name": "HSBC Holdings plc",
@@ -35,8 +35,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$2.25",
+      "eps": "$2.25",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "NVS",
       "name": "Novartis AG",
@@ -46,8 +46,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/29/2025",
-      "lastYearEPS": "($7.47)",
+      "eps": "($7.47)",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "BA",
       "name": "Boeing Company (The)",
@@ -57,8 +57,8 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$2.51",
+      "eps": "$2.51",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "STX",
       "name": "Seagate Technology Holdings PLC",
@@ -68,8 +68,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "10/30/2025",
-      "lastYearEPS": "$4.73",
+      "eps": "$4.73",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "SPGI",
       "name": "S&P Global Inc.",
@@ -79,8 +79,8 @@
       "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.67",
+      "eps": "$0.67",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "GLW",
       "name": "Corning Incorporated",
@@ -90,8 +90,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/24/2025",
-      "lastYearEPS": "$6.96",
+      "eps": "$6.96",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "HCA",
       "name": "HCA Healthcare, Inc.",
@@ -101,8 +101,8 @@
       "noOfEsts": "9"
     },
     {
-      "lastYearRptDt": "10/27/2025",
-      "lastYearEPS": "$1.98",
+      "eps": "$1.98",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "WM",
       "name": "Waste Management, Inc.",
@@ -112,8 +112,8 @@
       "noOfEsts": "10"
     },
     {
-      "lastYearRptDt": "10/23/2025",
-      "lastYearEPS": "$0.50",
+      "eps": "$0.50",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "FCX",
       "name": "Freeport-McMoran, Inc.",
@@ -123,8 +123,8 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "11/05/2025",
-      "lastYearEPS": "$1.26",
+      "eps": "$1.26",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "JCI",
       "name": "Johnson Controls International plc",
@@ -134,8 +134,8 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$2.78",
+      "eps": "$2.78",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "AMT",
       "name": "American Tower Corporation (REIT)",
@@ -145,8 +145,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$1.74",
+      "eps": "$1.74",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "UPS",
       "name": "United Parcel Service, Inc.",
@@ -156,8 +156,8 @@
       "noOfEsts": "10"
     },
     {
-      "lastYearRptDt": "11/05/2025",
-      "lastYearEPS": "$0.61",
+      "eps": "$0.61",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc.",
@@ -167,8 +167,8 @@
       "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$3.59",
+      "eps": "$3.59",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "SHW",
       "name": "Sherwin-Williams Company (The)",
@@ -178,8 +178,8 @@
       "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$2.07",
+      "eps": "$2.07",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "ECL",
       "name": "Ecolab Inc.",
@@ -189,8 +189,8 @@
       "noOfEsts": "9"
     },
     {
-      "lastYearRptDt": "10/22/2025",
-      "lastYearEPS": "$2.11",
+      "eps": "$2.11",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "HLT",
       "name": "Hilton Worldwide Holdings Inc.",
@@ -200,8 +200,8 @@
       "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "10/24/2025",
-      "lastYearEPS": "$2.81",
+      "eps": "$2.81",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "ITW",
       "name": "Illinois Tool Works Inc.",
@@ -211,8 +211,8 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$5.75",
+      "eps": "$5.75",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "RCL",
       "name": "Royal Caribbean Cruises Ltd.",
@@ -222,8 +222,8 @@
       "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "10/27/2025",
-      "lastYearEPS": "$2.75",
+      "eps": "$2.75",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "NXPI",
       "name": "NXP Semiconductors N.V.",
@@ -233,8 +233,8 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$1.49",
+      "eps": "$1.49",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "OKE",
       "name": "ONEOK, Inc.",
@@ -244,8 +244,8 @@
       "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "10/23/2025",
-      "lastYearEPS": "$0.68",
+      "eps": "$0.68",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "BKR",
       "name": "Baker Hughes Company",
@@ -255,8 +255,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/21/2025",
-      "lastYearEPS": "$1.12",
+      "eps": "$1.12",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "PCAR",
       "name": "PACCAR Inc.",
@@ -266,8 +266,8 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.85",
+      "eps": "$0.85",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "TER",
       "name": "Teradyne, Inc.",
@@ -277,8 +277,8 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$1.34",
+      "eps": "$1.34",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "PYPL",
       "name": "PayPal Holdings, Inc.",
@@ -288,8 +288,8 @@
       "noOfEsts": "11"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$2.73",
+      "eps": "$2.73",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "IQV",
       "name": "IQVIA Holdings, Inc.",
@@ -299,8 +299,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/29/2025",
-      "lastYearEPS": "$0.88",
+      "eps": "$0.88",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "VTR",
       "name": "Ventas, Inc.",
@@ -310,8 +310,8 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "10/27/2025",
-      "lastYearEPS": "$2.77",
+      "eps": "$2.77",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "ACGL",
       "name": "Arch Capital Group Ltd.",
@@ -321,8 +321,8 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "10/21/2025",
-      "lastYearEPS": "$0.52",
+      "eps": "$0.52",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "EQT",
       "name": "EQT Corporation",
@@ -332,8 +332,8 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "10/29/2025",
-      "lastYearEPS": "$0.50",
+      "eps": "$0.50",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "CNC",
       "name": "Centene Corporation",
@@ -343,8 +343,8 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "10/29/2025",
-      "lastYearEPS": "$2.08",
+      "eps": "$2.08",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "EXR",
       "name": "Extra Space Storage Inc",
@@ -354,8 +354,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/23/2025",
-      "lastYearEPS": "$0.50",
+      "eps": "$0.50",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "CNP",
       "name": "CenterPoint Energy, Inc.",
@@ -365,8 +365,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/22/2025",
-      "lastYearEPS": "$0.83",
+      "eps": "$0.83",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "FE",
       "name": "FirstEnergy Corp.",
@@ -376,8 +376,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/27/2025",
-      "lastYearEPS": "$3.41",
+      "eps": "$3.41",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "FFIV",
       "name": "F5, Inc.",
@@ -387,8 +387,8 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$1.37",
+      "eps": "$1.37",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "XYL",
       "name": "Xylem Inc.",
@@ -398,8 +398,8 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "10/30/2025",
-      "lastYearEPS": "$5.20",
+      "eps": "$5.20",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "LPLA",
       "name": "LPL Financial Holdings Inc.",
@@ -409,8 +409,8 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$2.13",
+      "eps": "$2.13",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "PPG",
       "name": "PPG Industries, Inc.",
@@ -420,8 +420,8 @@
       "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$5.17",
+      "eps": "$5.17",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "HUBB",
       "name": "Hubbell Inc",
@@ -431,8 +431,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/30/2025",
-      "lastYearEPS": "$0.93",
+      "eps": "$0.93",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "CMS",
       "name": "CMS Energy Corporation",
@@ -442,8 +442,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.97",
+      "eps": "$0.97",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "EXE",
       "name": "Expand Energy Corporation",
@@ -453,8 +453,8 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.11",
+      "eps": "$0.11",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "SOFI",
       "name": "SoFi Technologies, Inc. ",
@@ -464,8 +464,8 @@
       "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "10/29/2025",
-      "lastYearEPS": "$3.97",
+      "eps": "$3.97",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "ESS",
       "name": "Essex Property Trust, Inc.",
@@ -475,8 +475,8 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$1.25",
+      "eps": "$1.25",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "LOGI",
       "name": "Logitech International S.A.",
@@ -486,8 +486,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "10/23/2025",
-      "lastYearEPS": "$0.95",
+      "eps": "$0.95",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "TRU",
       "name": "TransUnion",
@@ -497,8 +497,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$1.25",
+      "eps": "$1.25",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "WPC",
       "name": "W. P. Carey Inc.",
@@ -508,8 +508,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$15.62",
+      "eps": "$15.62",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "RNR",
       "name": "RenaissanceRe Holdings Ltd.",
@@ -519,8 +519,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/30/2025",
-      "lastYearEPS": "$2.47",
+      "eps": "$2.47",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "LECO",
       "name": "Lincoln Electric Holdings, Inc.",
@@ -530,8 +530,8 @@
       "noOfEsts": "9"
     },
     {
-      "lastYearRptDt": "10/22/2025",
-      "lastYearEPS": "$2.83",
+      "eps": "$2.83",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "ICLR",
       "name": "ICON plc",
@@ -541,8 +541,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "10/21/2025",
-      "lastYearEPS": "$0.96",
+      "eps": "$0.96",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "MANH",
       "name": "Manhattan Associates, Inc.",
@@ -552,8 +552,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.11",
+      "eps": "$0.11",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "CSGP",
       "name": "CoStar Group, Inc.",
@@ -563,8 +563,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.50",
+      "eps": "$0.50",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "ARCC",
       "name": "Ares Capital Corporation",
@@ -574,8 +574,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/29/2025",
-      "lastYearEPS": "$3.98",
+      "eps": "$3.98",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "WSO",
       "name": "Watsco, Inc.",
@@ -585,8 +585,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.61",
+      "eps": "$0.61",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "IVZ",
       "name": "Invesco Plc",
@@ -596,8 +596,8 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.52",
+      "eps": "$0.52",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "RRC",
       "name": "Range Resources Corporation",
@@ -607,8 +607,8 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$2.63",
+      "eps": "$2.63",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "AIT",
       "name": "Applied Industrial Technologies, Inc.",
@@ -618,8 +618,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "10/27/2025",
-      "lastYearEPS": "$1.64",
+      "eps": "$1.64",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "CR",
       "name": "Crane Company",
@@ -629,8 +629,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "10/27/2025",
-      "lastYearEPS": "$5.69",
+      "eps": "$5.69",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "UHS",
       "name": "Universal Health Services, Inc.",
@@ -640,8 +640,8 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "11/03/2025",
-      "lastYearEPS": "$1.47",
+      "eps": "$1.47",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "ENSG",
       "name": "The Ensign Group, Inc.",
@@ -651,8 +651,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$2.70",
+      "eps": "$2.70",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "UMBF",
       "name": "UMB Financial Corporation",
@@ -662,8 +662,8 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$1.74",
+      "eps": "$1.74",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "BXP",
       "name": "BXP, Inc.",
@@ -673,8 +673,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/21/2025",
-      "lastYearEPS": "$1.24",
+      "eps": "$1.24",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "PNR",
       "name": "Pentair plc.",
@@ -684,8 +684,8 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.46",
+      "eps": "$0.46",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "RGEN",
       "name": "Repligen Corporation",
@@ -695,8 +695,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.43",
+      "eps": "$0.43",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "ZWS",
       "name": "Zurn Elkay Water Solutions Corporation",
@@ -706,8 +706,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.58",
+      "eps": "$0.58",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "SFD",
       "name": "Smithfield Foods, Inc.",
@@ -717,8 +717,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "10/27/2025",
-      "lastYearEPS": "$0.11",
+      "eps": "$0.11",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "NOV",
       "name": "NOV Inc.",
@@ -728,8 +728,8 @@
       "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "10/29/2025",
-      "lastYearEPS": "$0.65",
+      "eps": "$0.65",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "STAG",
       "name": "Stag Industrial, Inc.",
@@ -739,8 +739,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$2.05",
+      "eps": "$2.05",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "AWI",
       "name": "Armstrong World Industries Inc",
@@ -750,8 +750,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.38",
+      "eps": "$0.38",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "CVLT",
       "name": "Commvault Systems, Inc.",
@@ -761,8 +761,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$4.94",
+      "eps": "$4.94",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "CHE",
       "name": "Chemed Corp.",
@@ -772,8 +772,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.38",
+      "eps": "$0.38",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "EXLS",
       "name": "ExlService Holdings, Inc.",
@@ -783,8 +783,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/21/2025",
-      "lastYearEPS": "$1.12",
+      "eps": "$1.12",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "GLXY",
       "name": "Galaxy Digital Inc.",
@@ -794,8 +794,8 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.89",
+      "eps": "$0.89",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "ST",
       "name": "Sensata Technologies Holding plc",
@@ -805,8 +805,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "($0.27)",
+      "eps": "($0.27)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "CZR",
       "name": "Caesars Entertainment, Inc.",
@@ -816,8 +816,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.23",
+      "eps": "$0.23",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "KNSA",
       "name": "Kiniksa Pharmaceuticals International, plc",
@@ -827,8 +827,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$1.22",
+      "eps": "$1.22",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "LSTR",
       "name": "Landstar System, Inc.",
@@ -838,8 +838,8 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.68",
+      "eps": "$0.68",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "CAKE",
       "name": "The Cheesecake Factory Incorporated",
@@ -849,8 +849,8 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "10/29/2025",
-      "lastYearEPS": "$0.55",
+      "eps": "$0.55",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "RUSHA",
       "name": "Rush Enterprises, Inc.",
@@ -860,8 +860,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.55",
+      "eps": "$0.55",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "RUSHB",
       "name": "Rush Enterprises, Inc.",
@@ -871,8 +871,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.38",
+      "eps": "$0.38",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "AKO.A",
       "name": "Embotelladora Andina S.A.",
@@ -882,8 +882,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.38",
+      "eps": "$0.38",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "AKO.B",
       "name": "Embotelladora Andina S.A.",
@@ -893,8 +893,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.15",
+      "eps": "$0.15",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "SIM",
       "name": "Grupo Simec, S.A. de C.V.",
@@ -904,8 +904,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$2.22",
+      "eps": "$2.22",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "HRI",
       "name": "Herc Holdings Inc.",
@@ -915,8 +915,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "10/22/2025",
-      "lastYearEPS": "$1.80",
+      "eps": "$1.80",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "TNL",
       "name": "Travel   Leisure Co.",
@@ -926,8 +926,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.51",
+      "eps": "$0.51",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "ENPH",
       "name": "Enphase Energy, Inc.",
@@ -937,8 +937,8 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "10/30/2025",
-      "lastYearEPS": "$1.54",
+      "eps": "$1.54",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "ITRI",
       "name": "Itron, Inc.",
@@ -948,8 +948,8 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.77",
+      "eps": "$0.77",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "RNST",
       "name": "Renasant Corporation",
@@ -959,8 +959,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.11",
+      "eps": "$0.11",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "MIR",
       "name": "Mirion Technologies, Inc.",
@@ -970,8 +970,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$113.71",
+      "eps": "$113.71",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "SEB",
       "name": "Seaboard Corporation",
@@ -981,8 +981,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "11/04/2025",
-      "lastYearEPS": "($0.06)",
+      "eps": "($0.06)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "INTA",
       "name": "Intapp, Inc.",
@@ -992,8 +992,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/23/2025",
-      "lastYearEPS": "$0.76",
+      "eps": "$0.76",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "FFBC",
       "name": "First Financial Bancorp.",
@@ -1003,8 +1003,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "11/05/2025",
-      "lastYearEPS": "$0.79",
+      "eps": "$0.79",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "SLDE",
       "name": "Slide Insurance Holdings, Inc.",
@@ -1014,8 +1014,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.86",
+      "eps": "$0.86",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "HIW",
       "name": "Highwoods Properties, Inc.",
@@ -1025,8 +1025,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/21/2025",
-      "lastYearEPS": "$1.04",
+      "eps": "$1.04",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "CBU",
       "name": "Community Financial System, Inc.",
@@ -1036,8 +1036,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/27/2025",
-      "lastYearEPS": "$0.52",
+      "eps": "$0.52",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "SBCF",
       "name": "Seacoast Banking Corporation of Florida",
@@ -1047,8 +1047,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "10/23/2025",
-      "lastYearEPS": "$0.86",
+      "eps": "$0.86",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "AB",
       "name": "AllianceBernstein Holding L.P.",
@@ -1058,8 +1058,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.41",
+      "eps": "$0.41",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "PII",
       "name": "Polaris Inc.",
@@ -1069,8 +1069,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$2.59",
+      "eps": "$2.59",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "KAI",
       "name": "Kadant Inc",
@@ -1080,8 +1080,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$7.17",
+      "eps": "$7.17",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "ABG",
       "name": "Asbury Automotive Group Inc",
@@ -1091,8 +1091,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "10/22/2025",
-      "lastYearEPS": "$0.38",
+      "eps": "$0.38",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "BANC",
       "name": "Banc of California, Inc.",
@@ -1102,8 +1102,8 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "10/27/2025",
-      "lastYearEPS": "$1.05",
+      "eps": "$1.05",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "NBTB",
       "name": "NBT Bancorp Inc.",
@@ -1113,8 +1113,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$1.02",
+      "eps": "$1.02",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "APAM",
       "name": "Artisan Partners Asset Management Inc.",
@@ -1124,8 +1124,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.94",
+      "eps": "$0.94",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "TRMK",
       "name": "Trustmark Corporation",
@@ -1135,8 +1135,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.64",
+      "eps": "$0.64",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "BUSE",
       "name": "First Busey Corporation",
@@ -1146,8 +1146,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$1.51",
+      "eps": "$1.51",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "NTB",
       "name": "Bank of N.T. Butterfield & Son Limited (The)",
@@ -1157,8 +1157,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "10/22/2025",
-      "lastYearEPS": "$3.29",
+      "eps": "$3.29",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "EEFT",
       "name": "Euronet Worldwide, Inc.",
@@ -1168,8 +1168,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.47",
+      "eps": "$0.47",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "IVT",
       "name": "InvenTrust Properties Corp.",
@@ -1179,8 +1179,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "10/29/2025",
-      "lastYearEPS": "$0.90",
+      "eps": "$0.90",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "ROG",
       "name": "Rogers Corporation",
@@ -1190,8 +1190,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.39",
+      "eps": "$0.39",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "FCF",
       "name": "First Commonwealth Financial Corporation",
@@ -1201,8 +1201,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.20",
+      "eps": "$0.20",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "UCTT",
       "name": "Ultra Clean Holdings, Inc.",
@@ -1212,8 +1212,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "10/21/2025",
-      "lastYearEPS": "$1.69",
+      "eps": "$1.69",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "MCRI",
       "name": "Monarch Casino & Resort, Inc.",
@@ -1223,8 +1223,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "10/21/2025",
-      "lastYearEPS": "$0.96",
+      "eps": "$0.96",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "NBHC",
       "name": "National Bank Holdings Corporation",
@@ -1234,8 +1234,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "10/30/2025",
-      "lastYearEPS": "($0.03)",
+      "eps": "($0.03)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "WERN",
       "name": "Werner Enterprises, Inc.",
@@ -1245,8 +1245,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "10/22/2025",
-      "lastYearEPS": "$0.36",
+      "eps": "$0.36",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "OCFC",
       "name": "OceanFirst Financial Corp.",
@@ -1256,8 +1256,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.60",
+      "eps": "$0.60",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "CTS",
       "name": "CTS Corporation",
@@ -1267,8 +1267,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/23/2025",
-      "lastYearEPS": "$1.47",
+      "eps": "$1.47",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "ESQ",
       "name": "Esquire Financial Holdings, Inc.",
@@ -1278,8 +1278,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "($0.22)",
+      "eps": "($0.22)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "HYMC",
       "name": "Hycroft Mining Holding Corporation",
@@ -1289,8 +1289,8 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "($3.67)",
+      "eps": "($3.67)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "NBR",
       "name": "Nabors Industries Ltd.",
@@ -1300,8 +1300,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.49",
+      "eps": "$0.49",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "AAT",
       "name": "American Assets Trust, Inc.",
@@ -1311,8 +1311,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/22/2025",
-      "lastYearEPS": "($0.37)",
+      "eps": "($0.37)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "PDS",
       "name": "Precision Drilling Corporation",
@@ -1322,8 +1322,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.24",
+      "eps": "$0.24",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "CPAC",
       "name": "Cementos Pacasmayo S.A.A.",
@@ -1333,8 +1333,8 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "($0.33)",
+      "eps": "($0.33)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "BBNX",
       "name": "Beta Bionics, Inc.",
@@ -1344,8 +1344,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "11/10/2025",
-      "lastYearEPS": "($0.07)",
+      "eps": "($0.07)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "BBAI",
       "name": "BigBear.ai, Inc.",
@@ -1355,8 +1355,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "11/04/2025",
-      "lastYearEPS": "$0.48",
+      "eps": "$0.48",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "OI",
       "name": "O-I Glass, Inc.",
@@ -1366,8 +1366,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$1.24",
+      "eps": "$1.24",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "CAC",
       "name": "Camden National Corporation",
@@ -1377,8 +1377,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "10/21/2025",
-      "lastYearEPS": "$0.73",
+      "eps": "$0.73",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "HAFC",
       "name": "Hanmi Financial Corporation",
@@ -1388,8 +1388,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.70",
+      "eps": "$0.70",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "FCBC",
       "name": "First Community Bankshares, Inc.",
@@ -1399,8 +1399,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$1.75",
+      "eps": "$1.75",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "THFF",
       "name": "First Financial Corporation ",
@@ -1410,8 +1410,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/23/2025",
-      "lastYearEPS": "$0.44",
+      "eps": "$0.44",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "SMPL",
       "name": "The Simply Good Foods Company",
@@ -1421,8 +1421,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.15",
+      "eps": "$0.15",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "JBGS",
       "name": "JBG SMITH Properties",
@@ -1432,8 +1432,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "11/06/2025",
-      "lastYearEPS": "$0.10",
+      "eps": "$0.10",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "PHAR",
       "name": "Pharming Group N.V.",
@@ -1443,8 +1443,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "11/04/2025",
-      "lastYearEPS": "$0.26",
+      "eps": "$0.26",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "SXC",
       "name": "SunCoke Energy, Inc.",
@@ -1454,8 +1454,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.84",
+      "eps": "$0.84",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "IBCP",
       "name": "Independent Bank Corporation",
@@ -1465,8 +1465,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "11/07/2025",
-      "lastYearEPS": "$0.54",
+      "eps": "$0.54",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "PGC",
       "name": "Peapack-Gladstone Financial Corporation",
@@ -1476,8 +1476,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.50",
+      "eps": "$0.50",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "CTO",
       "name": "CTO Realty Growth, Inc.",
@@ -1487,8 +1487,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "LU",
       "name": "Lufax Holding Ltd",
@@ -1498,8 +1498,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.48",
+      "eps": "$0.48",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "BCAL",
       "name": "California BanCorp",
@@ -1509,8 +1509,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "10/27/2025",
-      "lastYearEPS": "($0.22)",
+      "eps": "($0.22)",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "DQ",
       "name": "DAQO New Energy Corp.",
@@ -1520,8 +1520,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "10/21/2025",
-      "lastYearEPS": "$1.15",
+      "eps": "$1.15",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "WCCB",
       "name": "West Coast Community Bancorp",
@@ -1531,8 +1531,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "11/10/2025",
-      "lastYearEPS": "($0.32)",
+      "eps": "($0.32)",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "WVE",
       "name": "Wave Life Sciences, Inc.",
@@ -1542,8 +1542,8 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "($0.24)",
+      "eps": "($0.24)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "KIDS",
       "name": "OrthoPediatrics Corp.",
@@ -1553,8 +1553,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "($1.20)",
+      "eps": "($1.20)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "DBVT",
       "name": "DBV Technologies S.A.",
@@ -1564,8 +1564,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.02)",
+      "eps": "($0.02)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "SSII",
       "name": "SS Innovations International Inc.",
@@ -1575,8 +1575,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.14",
+      "eps": "$0.14",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "BRSP",
       "name": "BrightSpire Capital, Inc.",
@@ -1586,8 +1586,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.26",
+      "eps": "$0.26",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "LXFR",
       "name": "Luxfer Holdings PLC",
@@ -1597,8 +1597,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "10/22/2025",
-      "lastYearEPS": "$0.94",
+      "eps": "$0.94",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "NWFL",
       "name": "Norwood Financial Corp.",
@@ -1608,8 +1608,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.06",
+      "eps": "$0.06",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "ORN",
       "name": "Orion Group Holdings, Inc.",
@@ -1619,8 +1619,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1.03",
+      "eps": "$1.03",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "RCKY",
       "name": "Rocky Brands, Inc.",
@@ -1630,8 +1630,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.72",
+      "eps": "$0.72",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "CBNA",
       "name": "Chain Bridge Bancorp, Inc.",
@@ -1641,8 +1641,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/27/2025",
-      "lastYearEPS": "($0.11)",
+      "eps": "($0.11)",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "NAUT",
       "name": "Nautilus Biotechnology, Inc.",
@@ -1652,8 +1652,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "11/04/2025",
-      "lastYearEPS": "($0.04)",
+      "eps": "($0.04)",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "SNDL",
       "name": "SNDL Inc.",
@@ -1663,8 +1663,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1.19",
+      "eps": "$1.19",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "FRAF",
       "name": "Franklin Financial Services Corporation",
@@ -1674,8 +1674,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$1.09",
+      "eps": "$1.09",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "QNBC",
       "name": "QNB Corp.",
@@ -1685,8 +1685,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.16",
+      "eps": "$0.16",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "WNEB",
       "name": "Western New England Bancorp, Inc.",
@@ -1696,8 +1696,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/21/2025",
-      "lastYearEPS": "$0.46",
+      "eps": "$0.46",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "ACU",
       "name": "Acme United Corporation.",
@@ -1707,8 +1707,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "10/22/2025",
-      "lastYearEPS": "$0.01",
+      "eps": "$0.01",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "RBBN",
       "name": "Ribbon Communications Inc. ",
@@ -1718,8 +1718,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.27)",
+      "eps": "($0.27)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "PAMT",
       "name": "PAMT CORP",
@@ -1729,8 +1729,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.18",
+      "eps": "$0.18",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "RBKB",
       "name": "Rhinebeck Bancorp, Inc.",
@@ -1740,8 +1740,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.81",
+      "eps": "$0.81",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "FNWD",
       "name": "Finward Bancorp",
@@ -1751,8 +1751,8 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.46",
+      "eps": "$0.46",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "EBMT",
       "name": "Eagle Bancorp Montana, Inc.",
@@ -1762,8 +1762,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/27/2025",
-      "lastYearEPS": "$0.29",
+      "eps": "$0.29",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "SEVN",
       "name": "Seven Hills Realty Trust ",
@@ -1773,8 +1773,8 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.05",
+      "eps": "$0.05",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "RVSB",
       "name": "Riverview Bancorp Inc",
@@ -1784,8 +1784,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.66",
+      "eps": "$0.66",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "SFBC",
       "name": "Sound Financial Bancorp, Inc.",
@@ -1795,8 +1795,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.25",
+      "eps": "$0.25",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "PROV",
       "name": "Provident Financial Holdings, Inc.",
@@ -1806,8 +1806,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "11/04/2025",
-      "lastYearEPS": "($0.08)",
+      "eps": "($0.08)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "BOOM",
       "name": "DMC Global Inc.",
@@ -1817,8 +1817,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "11/12/2025",
-      "lastYearEPS": "($0.34)",
+      "eps": "($0.34)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "LUNG",
       "name": "Pulmonx Corporation",
@@ -1828,8 +1828,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/28/2025",
-      "lastYearEPS": "$0.01",
+      "eps": "$0.01",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "TZOO",
       "name": "Travelzoo",
@@ -1839,8 +1839,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.04)",
+      "eps": "($0.04)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "ESYN",
       "name": "EnerSyn Global Inc.",
@@ -1850,8 +1850,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.02",
+      "eps": "$0.02",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "FSP",
       "name": "Franklin Street Properties Corp.",
@@ -1861,8 +1861,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.36)",
+      "eps": "($0.36)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "AQB",
       "name": "AquaBounty Technologies, Inc.",
