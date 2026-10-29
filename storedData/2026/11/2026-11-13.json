@@ -108,7 +108,7 @@
       "name": "LG Display Co., Ltd.",
       "marketCap": "$2,750,000,130",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.16",
+      "epsForecast": "$0.23",
       "noOfEsts": "2"
     },
     {
@@ -407,6 +407,28 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.30)",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "11/12/2025",
+      "lastYearEPS": "$0.11",
+      "time": "time-pre-market",
+      "symbol": "KGEI",
+      "name": "Kolibri Global Energy Inc.",
+      "marketCap": "$254,767,696",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.15",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.03)",
+      "time": "time-pre-market",
+      "symbol": "DGXX",
+      "name": "Digi Power X Inc.",
+      "marketCap": "$246,385,856",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",

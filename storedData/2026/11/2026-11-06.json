@@ -31,7 +31,7 @@
       "name": "Enbridge Inc",
       "marketCap": "$106,004,709,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.37",
+      "epsForecast": "$0.36",
       "noOfEsts": "5"
     },
     {
@@ -75,8 +75,8 @@
       "name": "Vistra Corp.",
       "marketCap": "$49,224,258,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$2.87",
-      "noOfEsts": "3"
+      "epsForecast": "$2.26",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "11/07/2025",
@@ -112,17 +112,6 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "11/07/2025",
-      "lastYearEPS": "$0.84",
-      "time": "time-not-supplied",
-      "symbol": "YPF",
-      "name": "YPF Sociedad Anonima",
-      "marketCap": "$19,056,005,100",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.92",
-      "noOfEsts": "2"
-    },
-    {
       "lastYearRptDt": "11/05/2025",
       "lastYearEPS": "$0.39",
       "time": "time-pre-market",
@@ -152,7 +141,7 @@
       "name": "Franklin Templeton, Inc.",
       "marketCap": "$15,867,241,500",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.77",
+      "epsForecast": "$0.78",
       "noOfEsts": "6"
     },
     {
@@ -361,8 +350,8 @@
       "name": "Delek US Holdings, Inc.",
       "marketCap": "$4,304,622,100",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$7.37",
-      "noOfEsts": "5"
+      "epsForecast": "$7.59",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "11/07/2025",
