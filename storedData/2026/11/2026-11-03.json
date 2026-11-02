@@ -262,8 +262,8 @@
       "name": "Prudential Financial, Inc.",
       "marketCap": "$40,320,152,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$3.32",
-      "noOfEsts": "4"
+      "epsForecast": "$3.31",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/04/2025",
@@ -856,7 +856,7 @@
       "name": "Matador Resources Company",
       "marketCap": "$7,404,214,800",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.64",
+      "epsForecast": "$1.71",
       "noOfEsts": "9"
     },
     {
@@ -867,8 +867,8 @@
       "name": "Modine Manufacturing Company",
       "marketCap": "$7,383,200,300",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.47",
-      "noOfEsts": "5"
+      "epsForecast": "$1.55",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "11/04/2025",
@@ -1234,17 +1234,6 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "11/04/2025",
-      "lastYearEPS": "($1.37)",
-      "time": "time-not-supplied",
-      "symbol": "SPHR",
-      "name": "Sphere Entertainment Co.",
-      "marketCap": "$4,061,828,860",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "($1.79)",
-      "noOfEsts": "4"
-    },
-    {
       "lastYearRptDt": "11/05/2025",
       "lastYearEPS": "$1.69",
       "time": "time-after-hours",
@@ -1357,7 +1346,7 @@
     {
       "lastYearRptDt": "11/04/2025",
       "lastYearEPS": "($0.30)",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "TARS",
       "name": "Tarsus Pharmaceuticals, Inc.",
       "marketCap": "$3,658,313,220",
@@ -1423,7 +1412,7 @@
     {
       "lastYearRptDt": "10/28/2025",
       "lastYearEPS": "$2.59",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "KAI",
       "name": "Kadant Inc",
       "marketCap": "$3,204,167,680",
@@ -1685,15 +1674,15 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "11/04/2025",
-      "lastYearEPS": "$0.23",
-      "time": "time-not-supplied",
-      "symbol": "AUPH",
-      "name": "Aurinia Pharmaceuticals Inc",
-      "marketCap": "$2,289,810,690",
+      "lastYearRptDt": "11/03/2025",
+      "lastYearEPS": "$2.39",
+      "time": "time-after-hours",
+      "symbol": "UFPT",
+      "name": "UFP Technologies, Inc.",
+      "marketCap": "$2,271,840,260",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.20",
-      "noOfEsts": "1"
+      "epsForecast": "$2.63",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1857,8 +1846,8 @@
       "name": "Revolve Group, Inc.",
       "marketCap": "$1,641,362,300",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.21",
-      "noOfEsts": "8"
+      "epsForecast": "$0.20",
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "11/04/2025",
@@ -2521,17 +2510,6 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "11/04/2025",
-      "lastYearEPS": "($0.11)",
-      "time": "time-not-supplied",
-      "symbol": "NPCE",
-      "name": "Neuropace, Inc.",
-      "marketCap": "$446,558,816",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "($0.14)",
-      "noOfEsts": "2"
-    },
-    {
       "lastYearRptDt": "10/30/2025",
       "lastYearEPS": "$0.62",
       "time": "time-pre-market",
@@ -2662,17 +2640,6 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.21",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "11/04/2025",
-      "lastYearEPS": "$0.31",
-      "time": "time-not-supplied",
-      "symbol": "AVNW",
-      "name": "Aviat Networks, Inc.",
-      "marketCap": "$266,302,240",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.20",
-      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "10/22/2025",
@@ -2880,8 +2847,8 @@
       "name": "Chegg, Inc.",
       "marketCap": "$76,842,120",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "($0.08)",
-      "noOfEsts": "1"
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "11/04/2025",
@@ -3068,7 +3035,7 @@
       "marketCap": "$9,535,144",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.14)",
-      "noOfEsts": "2"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",

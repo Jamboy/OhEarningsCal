@@ -4,7 +4,7 @@
     {
       "lastYearRptDt": "11/24/2025",
       "lastYearEPS": "$1.59",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "A",
       "name": "Agilent Technologies, Inc.",
       "marketCap": "$51,071,410,000",
@@ -15,7 +15,7 @@
     {
       "lastYearRptDt": "11/24/2025",
       "lastYearEPS": "$0.89",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "ZM",
       "name": "Zoom Communications, Inc.",
       "marketCap": "$28,495,597,600",
@@ -26,7 +26,7 @@
     {
       "lastYearRptDt": "11/24/2025",
       "lastYearEPS": "($0.03)",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "SYM",
       "name": "Symbotic Inc.",
       "marketCap": "$22,619,584,500",
@@ -87,7 +87,7 @@
       "marketCap": "$4,120,625,410",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "11/24/2025",
@@ -164,7 +164,7 @@
       "marketCap": "$1,018,558,080",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.39",
-      "noOfEsts": "1"
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "11/24/2025",
@@ -208,7 +208,7 @@
       "marketCap": "$282,615,968",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "11/24/2025",
@@ -263,7 +263,7 @@
       "marketCap": "$105,530,408",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "11/24/2025",
@@ -285,7 +285,7 @@
       "marketCap": "$1,363,871",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "6"
     }
   ]
 }

@@ -169,7 +169,7 @@
     {
       "lastYearRptDt": "11/25/2025",
       "lastYearEPS": "$2.36",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "ANF",
       "name": "Abercrombie & Fitch Company",
       "marketCap": "$7,034,346,500",
@@ -207,8 +207,8 @@
       "name": "Kohl's Corporation",
       "marketCap": "$2,777,722,880",
       "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "($0.01)",
-      "noOfEsts": "6"
+      "epsForecast": "$0.01",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/19/2025",
