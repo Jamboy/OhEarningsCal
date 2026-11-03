@@ -196,7 +196,7 @@
       "name": "Cencora, Inc.",
       "marketCap": "$63,133,258,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$4.55",
+      "epsForecast": "$4.56",
       "noOfEsts": "4"
     },
     {
@@ -263,7 +263,7 @@
       "marketCap": "$42,228,404,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.32",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -308,6 +308,17 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$5.27",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "11/06/2025",
+      "lastYearEPS": "$0.41",
+      "time": "time-pre-market",
+      "symbol": "CHT",
+      "name": "Chunghwa Telecom Co., Ltd.",
+      "marketCap": "$38,003,732,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -669,7 +680,7 @@
       "name": "Wayfair Inc.",
       "marketCap": "$15,875,969,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.29",
+      "epsForecast": "$0.31",
       "noOfEsts": "5"
     },
     {
@@ -879,7 +890,7 @@
       "marketCap": "$11,177,625,600",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -923,7 +934,7 @@
       "marketCap": "$10,349,074,400",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.63",
-      "noOfEsts": "2"
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -978,7 +989,7 @@
       "marketCap": "$9,618,207,700",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.69",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -1065,8 +1076,8 @@
       "name": "Westlake Corporation",
       "marketCap": "$8,725,948,400",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.69",
-      "noOfEsts": "6"
+      "epsForecast": "$0.59",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/03/2025",
@@ -1329,7 +1340,7 @@
       "name": "e.l.f. Beauty, Inc.",
       "marketCap": "$6,590,603,300",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.36",
+      "epsForecast": "$0.37",
       "noOfEsts": "9"
     },
     {
@@ -1375,17 +1386,6 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.90",
       "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.45",
-      "time": "time-after-hours",
-      "symbol": "BKH",
-      "name": "Black Hills Corporation",
-      "marketCap": "$6,253,519,900",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.42",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "11/06/2025",
@@ -1517,7 +1517,7 @@
       "marketCap": "$5,403,307,500",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.89",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "12/09/2025",
@@ -1737,7 +1737,7 @@
       "marketCap": "$4,382,161,900",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -1901,8 +1901,8 @@
       "name": "Avient Corporation",
       "marketCap": "$3,929,265,410",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.80",
-      "noOfEsts": "3"
+      "epsForecast": "$0.81",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -2035,17 +2035,6 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.63",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "10/29/2025",
-      "lastYearEPS": "$1.54",
-      "time": "time-not-supplied",
-      "symbol": "TNK",
-      "name": "Teekay Tankers Ltd.",
-      "marketCap": "$3,492,100,860",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$3.45",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -2199,7 +2188,7 @@
       "marketCap": "$2,981,446,660",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "10/29/2025",
@@ -2243,7 +2232,7 @@
       "marketCap": "$2,908,495,870",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.79",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -2298,7 +2287,7 @@
       "marketCap": "$2,767,140,860",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -2323,6 +2312,17 @@
       "noOfEsts": "1"
     },
     {
+      "lastYearRptDt": "11/12/2025",
+      "lastYearEPS": "$0.01",
+      "time": "time-after-hours",
+      "symbol": "TGB",
+      "name": "Trekor Metals Limited",
+      "marketCap": "$2,697,510,140",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.11",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "11/05/2025",
       "lastYearEPS": "$0.15",
       "time": "time-after-hours",
@@ -2334,9 +2334,20 @@
       "noOfEsts": "N/A"
     },
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$2.83",
+      "time": "time-pre-market",
+      "symbol": "NMM",
+      "name": "Navios Maritime Partners LP",
+      "marketCap": "$2,625,731,070",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "5"
+    },
+    {
       "lastYearRptDt": "11/05/2025",
       "lastYearEPS": "$0.29",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "AAUC",
       "name": "Allied Gold Corporation",
       "marketCap": "$2,620,250,880",
@@ -2347,13 +2358,13 @@
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.51",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "SII",
       "name": "Sprott Inc.",
       "marketCap": "$2,615,258,880",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -2442,17 +2453,6 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.26",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "11/05/2025",
-      "lastYearEPS": "($0.36)",
-      "time": "time-not-supplied",
-      "symbol": "RXRX",
-      "name": "Recursion Pharmaceuticals, Inc.",
-      "marketCap": "$2,405,435,140",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "($0.24)",
-      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -2617,7 +2617,7 @@
       "marketCap": "$2,096,963,330",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -2671,7 +2671,7 @@
       "name": "Allegiant Travel Company",
       "marketCap": "$1,950,275,460",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "($0.46)",
+      "epsForecast": "($0.47)",
       "noOfEsts": "7"
     },
     {
@@ -2693,8 +2693,8 @@
       "name": "Energy Fuels Inc",
       "marketCap": "$1,925,893,760",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "($0.06)",
-      "noOfEsts": "2"
+      "epsForecast": "($0.10)",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -2793,7 +2793,7 @@
       "marketCap": "$1,722,256,510",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/06/2025",
@@ -2848,7 +2848,7 @@
       "marketCap": "$1,653,395,970",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "N/A",
@@ -2947,7 +2947,7 @@
       "marketCap": "$1,532,012,670",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -3035,7 +3035,7 @@
       "marketCap": "$1,329,939,460",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.08",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -3299,7 +3299,7 @@
       "marketCap": "$1,099,405,570",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.17",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "N/A",
@@ -3310,7 +3310,7 @@
       "marketCap": "$1,081,665,410",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "N/A",
@@ -3321,7 +3321,7 @@
       "marketCap": "$1,081,665,410",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -3387,7 +3387,7 @@
       "marketCap": "$939,063,620",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($1.13)",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -3464,7 +3464,7 @@
       "marketCap": "$835,124,290",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.43",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -3640,7 +3640,7 @@
       "marketCap": "$706,065,790",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/04/2025",
@@ -3665,17 +3665,6 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "11/05/2025",
-      "lastYearEPS": "($0.20)",
-      "time": "time-not-supplied",
-      "symbol": "ENVX",
-      "name": "Enovix Corporation",
-      "marketCap": "$691,262,910",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "($0.20)",
-      "noOfEsts": "4"
-    },
-    {
       "lastYearRptDt": "11/06/2025",
       "lastYearEPS": "($0.44)",
       "time": "time-after-hours",
@@ -3695,7 +3684,7 @@
       "marketCap": "$673,245,700",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -3744,7 +3733,7 @@
     {
       "lastYearRptDt": "11/05/2025",
       "lastYearEPS": "$0.65",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "PKOH",
       "name": "Park-Ohio Holdings Corp.",
       "marketCap": "$625,099,010",
@@ -3761,7 +3750,7 @@
       "marketCap": "$620,648,510",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -3904,7 +3893,7 @@
       "marketCap": "$507,342,272",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -3959,7 +3948,7 @@
       "marketCap": "$456,581,376",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/06/2025",
@@ -4003,7 +3992,7 @@
       "marketCap": "$436,472,512",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "N/A",
@@ -4014,7 +4003,7 @@
       "marketCap": "$422,440,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/07/2025",
@@ -4135,7 +4124,7 @@
       "marketCap": "$348,643,200",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -4344,7 +4333,7 @@
       "marketCap": "$264,436,192",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -4443,7 +4432,7 @@
       "marketCap": "$215,545,120",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/12/2025",
@@ -4619,7 +4608,7 @@
       "marketCap": "$165,264,656",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -4707,7 +4696,7 @@
       "marketCap": "$115,719,936",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -4784,7 +4773,7 @@
       "marketCap": "$91,679,576",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "N/A",
@@ -4817,7 +4806,7 @@
       "marketCap": "$80,707,944",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -4872,7 +4861,7 @@
       "marketCap": "$65,700,520",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/06/2025",
@@ -4905,7 +4894,7 @@
       "marketCap": "$60,661,064",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "N/A",
@@ -5004,7 +4993,7 @@
       "marketCap": "$39,322,800",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -5059,7 +5048,7 @@
       "marketCap": "$31,374,360",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -5092,7 +5081,7 @@
       "marketCap": "$28,213,828",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/12/2025",
@@ -5152,7 +5141,7 @@
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "($0.18)",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "ARAY",
       "name": "Accuray Incorporated",
       "marketCap": "$16,737,783",
@@ -5202,7 +5191,7 @@
       "marketCap": "$11,769,620",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "N/A",
@@ -5235,7 +5224,7 @@
       "marketCap": "$7,806,699",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "N/A",
@@ -5257,7 +5246,7 @@
       "marketCap": "$2,754,496",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "N/A",
@@ -5268,7 +5257,7 @@
       "marketCap": "",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "5"
     }
   ]
 }
