@@ -114,7 +114,7 @@
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.47",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "BF.A",
       "name": "Brown Forman Corporation",
       "marketCap": "$13,674,155,000",
@@ -125,7 +125,7 @@
     {
       "lastYearRptDt": "12/04/2025",
       "lastYearEPS": "$0.47",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "BF.B",
       "name": "Brown Forman Corporation",
       "marketCap": "$13,674,155,000",
@@ -136,7 +136,7 @@
     {
       "lastYearRptDt": "12/04/2025",
       "lastYearEPS": "$0.32",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "HRL",
       "name": "Hormel Foods Corporation",
       "marketCap": "$11,700,458,500",

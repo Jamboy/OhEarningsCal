@@ -35,9 +35,20 @@
       "noOfEsts": "4"
     },
     {
+      "lastYearRptDt": "11/10/2025",
+      "lastYearEPS": "$0.10",
+      "time": "time-pre-market",
+      "symbol": "BEKE",
+      "name": "KE Holdings Inc",
+      "marketCap": "$19,885,183,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.21",
+      "noOfEsts": "2"
+    },
+    {
       "lastYearRptDt": "11/17/2025",
       "lastYearEPS": "$0.63",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "HTHT",
       "name": "H World Group Limited",
       "marketCap": "$15,040,990,200",
@@ -87,6 +98,17 @@
       "marketCap": "$7,546,622,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.53",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "11/18/2025",
+      "lastYearEPS": "$1.41",
+      "time": "time-after-hours",
+      "symbol": "POWL",
+      "name": "Powell Industries, Inc.",
+      "marketCap": "$5,950,895,100",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$1.52",
       "noOfEsts": "3"
     },
     {
@@ -253,6 +275,17 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "11/19/2025",
+      "lastYearEPS": "$0.03",
+      "time": "time-after-hours",
+      "symbol": "API",
+      "name": "Agora, Inc.",
+      "marketCap": "$348,504,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -464,6 +497,17 @@
       "noOfEsts": "N/A"
     },
     {
+      "lastYearRptDt": "10/29/2025",
+      "lastYearEPS": "($2.84)",
+      "time": "time-after-hours",
+      "symbol": "STEM",
+      "name": "Stem, Inc.",
+      "marketCap": "$22,815,384",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "($1.73)",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "11/06/2025",
       "lastYearEPS": "$0.37",
       "time": "time-after-hours",
@@ -582,6 +626,17 @@
       "marketCap": "$1,508,909",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($12.20)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($99.99)",
+      "time": "time-pre-market",
+      "symbol": "XXII",
+      "name": "22nd Century Group, Inc",
+      "marketCap": "$927,466",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
       "noOfEsts": "1"
     },
     {

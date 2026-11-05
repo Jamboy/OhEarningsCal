@@ -75,7 +75,7 @@
       "name": "Vistra Corp.",
       "marketCap": "$46,851,318,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$2.77",
+      "epsForecast": "$2.89",
       "noOfEsts": "3"
     },
     {
@@ -99,6 +99,17 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$3.82",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "11/06/2025",
+      "lastYearEPS": "$0.83",
+      "time": "time-pre-market",
+      "symbol": "ECHO",
+      "name": "EchoStar Corporation",
+      "marketCap": "$29,645,766,700",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.02",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "11/05/2025",
@@ -153,7 +164,7 @@
       "marketCap": "$15,371,186,200",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.64",
-      "noOfEsts": "3"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "11/07/2025",
@@ -761,6 +772,17 @@
       "noOfEsts": "1"
     },
     {
+      "lastYearRptDt": "11/06/2025",
+      "lastYearEPS": "($0.12)",
+      "time": "time-pre-market",
+      "symbol": "OPTU",
+      "name": "Optimum Communications, Inc.",
+      "marketCap": "$307,519,776",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "($0.19)",
+      "noOfEsts": "4"
+    },
+    {
       "lastYearRptDt": "11/07/2025",
       "lastYearEPS": "($0.01)",
       "time": "time-pre-market",
@@ -768,7 +790,7 @@
       "name": "Canopy Growth Corporation",
       "marketCap": "$302,044,640",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "($0.03)",
+      "epsForecast": "($0.02)",
       "noOfEsts": "3"
     },
     {
@@ -987,17 +1009,6 @@
       "symbol": "MAMO",
       "name": "Massimo Group",
       "marketCap": "$41,224,540",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($5.31)",
-      "time": "time-not-supplied",
-      "symbol": "RYM",
-      "name": "RYTHM, Inc.",
-      "marketCap": "$36,300,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"
