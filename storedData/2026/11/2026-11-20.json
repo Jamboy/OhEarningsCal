@@ -2,6 +2,17 @@
   "date": "2026-11-20",
   "data": [
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "BSP",
+      "name": "Bending Spoons S.p.A.",
+      "marketCap": "$31,314,071,600",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.26",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "11/21/2025",
       "lastYearEPS": "$1.16",
       "time": "time-pre-market",
@@ -21,7 +32,7 @@
       "marketCap": "$9,951,243,300",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "11/21/2025",
@@ -43,7 +54,7 @@
       "marketCap": "$9,771,505,700",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "11/21/2025",
@@ -62,21 +73,21 @@
       "time": "time-not-supplied",
       "symbol": "IESC",
       "name": "IES Holdings, Inc.",
-      "marketCap": "$5,926,658,000",
+      "marketCap": "$6,450,604,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.96",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "BKE",
       "name": "Buckle, Inc. (The)",
       "marketCap": "$2,285,606,660",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -87,7 +98,7 @@
       "marketCap": "$194,094,288",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -95,10 +106,10 @@
       "time": "time-not-supplied",
       "symbol": "BXBL",
       "name": "BOXABL, Inc. ",
-      "marketCap": "$66,426,532",
+      "marketCap": "$66,772,504",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -106,7 +117,7 @@
       "time": "time-not-supplied",
       "symbol": "NOMA",
       "name": "NOMADAR Corp.",
-      "marketCap": "$19,715,752",
+      "marketCap": "$17,728,894",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -117,7 +128,7 @@
       "time": "time-not-supplied",
       "symbol": "GYGY",
       "name": "Game Your Game, Inc.",
-      "marketCap": "$4,893,280",
+      "marketCap": "$4,996,902",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -128,7 +139,7 @@
       "time": "time-not-supplied",
       "symbol": "FFAI",
       "name": "Faraday Future Intelligent Electric Inc.",
-      "marketCap": "$3,867,505",
+      "marketCap": "$3,589,473",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"

@@ -200,6 +200,17 @@
       "noOfEsts": "2"
     },
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.23",
+      "time": "time-after-hours",
+      "symbol": "YALA",
+      "name": "Yalla Group Limited",
+      "marketCap": "$835,059,460",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "11/13/2025",
       "lastYearEPS": "($0.11)",
       "time": "time-pre-market",
@@ -409,6 +420,17 @@
       "noOfEsts": "1"
     },
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.15)",
+      "time": "time-pre-market",
+      "symbol": "VENU",
+      "name": "Venu Holding Corporation",
+      "marketCap": "$78,296,224",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "11/13/2025",
       "lastYearEPS": "$0.19",
       "time": "time-after-hours",
@@ -572,6 +594,17 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "11/06/2025",
+      "lastYearEPS": "($0.02)",
+      "time": "time-after-hours",
+      "symbol": "BRFH",
+      "name": "Barfresh Food Group Inc.",
+      "marketCap": "$7,480,558",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "($0.05)",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "11/14/2025",
