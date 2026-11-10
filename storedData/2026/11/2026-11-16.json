@@ -86,13 +86,13 @@
       "name": "AECOM",
       "marketCap": "$8,589,199,400",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.57",
-      "noOfEsts": "2"
+      "epsForecast": "$1.59",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "11/17/2025",
       "lastYearEPS": "$0.45",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "XP",
       "name": "XP Inc.",
       "marketCap": "$7,847,242,800",
@@ -132,6 +132,17 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "11/03/2025",
+      "lastYearEPS": "($0.02)",
+      "time": "time-not-supplied",
+      "symbol": "ALM",
+      "name": "Almonty Industries Inc.",
+      "marketCap": "$2,342,463,740",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.07",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "11/12/2025",
@@ -178,6 +189,17 @@
       "noOfEsts": "1"
     },
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.74",
+      "time": "time-not-supplied",
+      "symbol": "NPK",
+      "name": "National Presto Industries, Inc.",
+      "marketCap": "$1,017,246,340",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "11/17/2025",
       "lastYearEPS": "($0.49)",
       "time": "time-not-supplied",
@@ -219,7 +241,7 @@
       "marketCap": "$841,132,610",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -266,15 +288,26 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "11/17/2025",
-      "lastYearEPS": "$0.52",
-      "time": "time-not-supplied",
-      "symbol": "GLAD",
-      "name": "Gladstone Capital Corporation",
-      "marketCap": "$437,853,664",
+      "lastYearRptDt": "11/18/2025",
+      "lastYearEPS": "$4.23",
+      "time": "time-pre-market",
+      "symbol": "ESEA",
+      "name": "Euroseas Ltd.",
+      "marketCap": "$447,311,168",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.48",
-      "noOfEsts": "3"
+      "epsForecast": "$3.84",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "QVCG",
+      "name": "QVC Group, Inc.",
+      "marketCap": "$376,999,232",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "11/19/2025",
@@ -329,6 +362,17 @@
       "marketCap": "$266,940,144",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "TOYO",
+      "name": "TOYO Co., Ltd",
+      "marketCap": "$229,400,752",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.31",
       "noOfEsts": "1"
     },
     {
@@ -454,6 +498,17 @@
     },
     {
       "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.09",
+      "time": "time-after-hours",
+      "symbol": "CVU",
+      "name": "CPI Aerostructures, Inc.",
+      "marketCap": "$61,213,772",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
       "lastYearEPS": "($1.95)",
       "time": "time-not-supplied",
       "symbol": "GPUS",
@@ -483,23 +538,12 @@
       "marketCap": "$41,478,792",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.10)",
-      "time": "time-not-supplied",
-      "symbol": "CRGO",
-      "name": "Freightos Limited",
-      "marketCap": "$34,576,792",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
       "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.55",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "EHLD",
       "name": "Euroholdings Ltd.",
       "marketCap": "$32,672,734",
@@ -547,6 +591,17 @@
       "symbol": "AIFC",
       "name": "AI Financial Corporation",
       "marketCap": "$24,009,928",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.03)",
+      "time": "time-pre-market",
+      "symbol": "ELWT",
+      "name": "Elauwit Connection, Inc.",
+      "marketCap": "$23,169,286",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -641,6 +696,17 @@
     },
     {
       "lastYearRptDt": "N/A",
+      "lastYearEPS": "$40",
+      "time": "time-not-supplied",
+      "symbol": "GDC",
+      "name": "GD Culture Group Limited",
+      "marketCap": "$4,995,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
       "lastYearEPS": "($99.99)",
       "time": "time-not-supplied",
       "symbol": "IVF",
@@ -681,6 +747,17 @@
       "marketCap": "$1,976,036",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "11/03/2025",
+      "lastYearEPS": "($3.82)",
+      "time": "time-not-supplied",
+      "symbol": "KPTI",
+      "name": "Karyopharm Therapeutics Inc.",
+      "marketCap": "$1,245,212",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "($1.05)",
       "noOfEsts": "1"
     },
     {
