@@ -574,17 +574,6 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.24)",
-      "time": "time-pre-market",
-      "symbol": "HQ",
-      "name": "Horizon Quantum Holdings Ltd.",
-      "marketCap": "$745,354,430",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
       "lastYearRptDt": "11/10/2025",
       "lastYearEPS": "($0.02)",
       "time": "time-pre-market",
@@ -1069,17 +1058,6 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1",
-      "time": "time-pre-market",
-      "symbol": "TONX",
-      "name": "TON Strategy Company",
-      "marketCap": "$162,462,368",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
       "lastYearRptDt": "10/30/2025",
       "lastYearEPS": "N/A",
       "time": "time-after-hours",
@@ -1290,17 +1268,6 @@
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.04",
-      "time": "time-pre-market",
-      "symbol": "JRSH",
-      "name": "Jerash Holdings (US), Inc.",
-      "marketCap": "$83,438,608",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
       "lastYearEPS": "($0.06)",
       "time": "time-not-supplied",
       "symbol": "CPIX",
@@ -1340,17 +1307,6 @@
       "name": "Micware Co., Ltd.",
       "marketCap": "$71,758,432",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.31)",
-      "time": "time-pre-market",
-      "symbol": "LNSR",
-      "name": "LENSAR, Inc.",
-      "marketCap": "$67,080,824",
-      "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"
     },
