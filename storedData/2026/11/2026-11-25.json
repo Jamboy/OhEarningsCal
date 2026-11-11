@@ -15,7 +15,7 @@
     {
       "lastYearRptDt": "11/26/2025",
       "lastYearEPS": "($0.09)",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "LI",
       "name": "Li Auto Inc.",
       "marketCap": "$12,059,567,100",
@@ -98,7 +98,7 @@
       "marketCap": "$165,924,448",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -109,7 +109,7 @@
       "marketCap": "$150,471,296",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "11/26/2025",
@@ -131,7 +131,7 @@
       "marketCap": "$129,687,752",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.11)",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -142,7 +142,7 @@
       "marketCap": "$72,327,944",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -153,7 +153,7 @@
       "marketCap": "$39,065,748",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -164,7 +164,7 @@
       "marketCap": "$13,194,157",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "11/26/2025",
@@ -197,7 +197,7 @@
       "marketCap": "$2,864,408",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     }
   ]
 }
