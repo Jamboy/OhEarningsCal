@@ -18,7 +18,7 @@
       "time": "time-pre-market",
       "symbol": "HD",
       "name": "Home Depot, Inc. (The)",
-      "marketCap": "$350,498,357,000",
+      "marketCap": "$347,455,390,000",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$3.87",
       "noOfEsts": "11"
@@ -29,7 +29,7 @@
       "time": "time-not-supplied",
       "symbol": "BHP",
       "name": "BHP Group Limited",
-      "marketCap": "$208,435,741,000",
+      "marketCap": "$206,448,001,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -40,7 +40,7 @@
       "time": "time-pre-market",
       "symbol": "DIS",
       "name": "Walt Disney Company (The)",
-      "marketCap": "$206,598,095,000",
+      "marketCap": "$204,146,196,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.67",
       "noOfEsts": "9"
@@ -51,7 +51,7 @@
       "time": "time-pre-market",
       "symbol": "VIK",
       "name": "Viking Holdings Ltd",
-      "marketCap": "$40,147,489,000",
+      "marketCap": "$39,621,464,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.23",
       "noOfEsts": "4"
@@ -84,7 +84,7 @@
       "time": "time-pre-market",
       "symbol": "AS",
       "name": "Amer Sports, Inc.",
-      "marketCap": "$17,332,301,800",
+      "marketCap": "$16,835,978,200",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.34",
       "noOfEsts": "5"
@@ -95,7 +95,7 @@
       "time": "time-after-hours",
       "symbol": "ZTO",
       "name": "ZTO Express (Cayman) Inc.",
-      "marketCap": "$15,752,168,400",
+      "marketCap": "$15,459,605,500",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -106,7 +106,7 @@
       "time": "time-after-hours",
       "symbol": "SQM",
       "name": "Sociedad Quimica y Minera S.A.",
-      "marketCap": "$15,635,813,400",
+      "marketCap": "$15,393,022,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.94",
       "noOfEsts": "3"
@@ -117,7 +117,7 @@
       "time": "time-pre-market",
       "symbol": "TME",
       "name": "Tencent Music Entertainment Group",
-      "marketCap": "$14,511,399,900",
+      "marketCap": "$14,196,618,200",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.20",
       "noOfEsts": "2"
@@ -128,7 +128,7 @@
       "time": "time-pre-market",
       "symbol": "KLAR",
       "name": "Klarna Group plc",
-      "marketCap": "$9,505,031,200",
+      "marketCap": "$8,968,741,900",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.16)",
       "noOfEsts": "4"
@@ -139,7 +139,7 @@
       "time": "time-after-hours",
       "symbol": "DLB",
       "name": "Dolby Laboratories",
-      "marketCap": "$6,056,624,100",
+      "marketCap": "$6,050,067,500",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.91",
       "noOfEsts": "3"
@@ -161,7 +161,7 @@
       "time": "time-pre-market",
       "symbol": "SR",
       "name": "Spire Inc.",
-      "marketCap": "$5,217,887,200",
+      "marketCap": "$5,210,202,600",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1",
       "noOfEsts": "4"
@@ -172,7 +172,7 @@
       "time": "time-pre-market",
       "symbol": "GFF",
       "name": "Griffon Corporation",
-      "marketCap": "$4,808,486,900",
+      "marketCap": "$4,748,698,100",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.59",
       "noOfEsts": "5"
@@ -183,7 +183,7 @@
       "time": "time-after-hours",
       "symbol": "CAAP",
       "name": "Corporacion America Airports SA",
-      "marketCap": "$4,170,131,200",
+      "marketCap": "$4,145,348,350",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.61",
       "noOfEsts": "1"
@@ -194,7 +194,7 @@
       "time": "time-pre-market",
       "symbol": "MNSO",
       "name": "MINISO Group Holding Limited",
-      "marketCap": "$3,397,113,600",
+      "marketCap": "$3,384,738,050",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.37",
       "noOfEsts": "1"
@@ -238,7 +238,7 @@
       "time": "time-pre-market",
       "symbol": "ENR",
       "name": "Energizer Holdings, Inc.",
-      "marketCap": "$1,664,837,250",
+      "marketCap": "$1,655,249,540",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.31",
       "noOfEsts": "3"
@@ -260,7 +260,7 @@
       "time": "time-pre-market",
       "symbol": "LUXE",
       "name": "LuxExperience B.V.",
-      "marketCap": "$1,465,451,260",
+      "marketCap": "$1,480,818,180",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.24)",
       "noOfEsts": "2"
@@ -282,7 +282,7 @@
       "time": "time-after-hours",
       "symbol": "LZB",
       "name": "La-Z-Boy Incorporated",
-      "marketCap": "$1,319,338,240",
+      "marketCap": "$1,302,916,610",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.48",
       "noOfEsts": "3"
@@ -315,7 +315,7 @@
       "time": "time-pre-market",
       "symbol": "FUBO",
       "name": "fuboTV Inc.",
-      "marketCap": "$859,378,750",
+      "marketCap": "$837,539,390",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.18)",
       "noOfEsts": "1"
@@ -337,7 +337,7 @@
       "time": "time-pre-market",
       "symbol": "SMWB",
       "name": "Similarweb Ltd.",
-      "marketCap": "$724,248,510",
+      "marketCap": "$713,492,350",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.03",
       "noOfEsts": "2"
@@ -348,7 +348,7 @@
       "time": "time-pre-market",
       "symbol": "HUYA",
       "name": "HUYA Inc.",
-      "marketCap": "$516,107,360",
+      "marketCap": "$506,972,736",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -392,7 +392,7 @@
       "time": "time-after-hours",
       "symbol": "AUNA",
       "name": "Auna SA",
-      "marketCap": "$347,120,800",
+      "marketCap": "$338,239,264",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.27",
       "noOfEsts": "2"
@@ -469,7 +469,7 @@
       "time": "time-not-supplied",
       "symbol": "DAVA",
       "name": "Endava plc",
-      "marketCap": "$85,294,336",
+      "marketCap": "$82,577,960",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.03",
       "noOfEsts": "2"
@@ -502,7 +502,7 @@
       "time": "time-not-supplied",
       "symbol": "EVTL",
       "name": "Vertical Aerospace Ltd.",
-      "marketCap": "$71,437,032",
+      "marketCap": "$64,756,984",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.29)",
       "noOfEsts": "3"
@@ -557,7 +557,7 @@
       "time": "time-not-supplied",
       "symbol": "AHT",
       "name": "Ashford Hospitality Trust Inc",
-      "marketCap": "$15,656,950",
+      "marketCap": "$15,851,044",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
