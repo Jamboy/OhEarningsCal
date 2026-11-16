@@ -35,6 +35,17 @@
       "noOfEsts": "2"
     },
     {
+      "lastYearRptDt": "11/20/2025",
+      "lastYearEPS": "$1.42",
+      "time": "time-after-hours",
+      "symbol": "VEEV",
+      "name": "Veeva Systems Inc.",
+      "marketCap": "$48,964,473,000",
+      "fiscalQuarterEnding": "Oct/2026",
+      "epsForecast": "$1.68",
+      "noOfEsts": "7"
+    },
+    {
       "lastYearRptDt": "12/04/2025",
       "lastYearEPS": "$1.05",
       "time": "time-pre-market",
@@ -141,7 +152,7 @@
       "name": "Victorias Secret & Co.",
       "marketCap": "$8,345,711,600",
       "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$0.02",
+      "epsForecast": "$0.04",
       "noOfEsts": "4"
     },
     {
@@ -158,7 +169,7 @@
     {
       "lastYearRptDt": "12/04/2025",
       "lastYearEPS": "($0.13)",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "S",
       "name": "SentinelOne, Inc.",
       "marketCap": "$7,758,015,000",
@@ -191,7 +202,7 @@
     {
       "lastYearRptDt": "12/04/2025",
       "lastYearEPS": "$1.15",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "DOO",
       "name": "BRP Inc.",
       "marketCap": "$4,512,412,200",
@@ -244,6 +255,17 @@
       "noOfEsts": "1"
     },
     {
+      "lastYearRptDt": "1/12/2026",
+      "lastYearEPS": "$0.21",
+      "time": "time-after-hours",
+      "symbol": "WLTH",
+      "name": "Wealthfront Corporation",
+      "marketCap": "$1,592,999,680",
+      "fiscalQuarterEnding": "Oct/2026",
+      "epsForecast": "$0.09",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.71",
       "time": "time-not-supplied",
@@ -266,15 +288,15 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "12/04/2025",
-      "lastYearEPS": "$0.29",
-      "time": "time-not-supplied",
-      "symbol": "TIGR",
-      "name": "UP Fintech Holding Limited",
-      "marketCap": "$700,506,560",
+      "lastYearRptDt": "11/13/2025",
+      "lastYearEPS": "($0.58)",
+      "time": "time-pre-market",
+      "symbol": "CSIQ",
+      "name": "Canadian Solar Inc.",
+      "marketCap": "$680,879,940",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
+      "epsForecast": "($1.05)",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
@@ -374,17 +396,6 @@
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.12",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($1.50)",
-      "time": "time-not-supplied",
-      "symbol": "ADXN",
-      "name": "Addex Therapeutics Ltd",
-      "marketCap": "$9,012,642",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "N/A",
