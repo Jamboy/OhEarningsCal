@@ -134,6 +134,17 @@
       "noOfEsts": "N/A"
     },
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$6.75",
+      "time": "time-not-supplied",
+      "symbol": "DAC",
+      "name": "Danaos Corporation",
+      "marketCap": "$2,763,105,540",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "11/12/2025",
       "lastYearEPS": "$0.36",
       "time": "time-after-hours",
@@ -175,6 +186,17 @@
       "marketCap": "$1,302,265,860",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.05)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.74",
+      "time": "time-not-supplied",
+      "symbol": "NPK",
+      "name": "National Presto Industries, Inc.",
+      "marketCap": "$1,001,190,210",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
       "noOfEsts": "1"
     },
     {
@@ -262,7 +284,7 @@
       "name": "Grupo Supervielle S.A.",
       "marketCap": "$518,836,544",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.16",
+      "epsForecast": "$0.20",
       "noOfEsts": "3"
     },
     {
@@ -464,17 +486,6 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "11/13/2025",
-      "lastYearEPS": "($0.07)",
-      "time": "time-pre-market",
-      "symbol": "AIRJ",
-      "name": "AirJoule Technologies Corporation",
-      "marketCap": "$173,727,936",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "($0.08)",
-      "noOfEsts": "3"
-    },
-    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
       "time": "time-pre-market",
@@ -499,7 +510,7 @@
     {
       "lastYearRptDt": "11/05/2025",
       "lastYearEPS": "$0.04",
-      "time": "time-pre-market",
+      "time": "time-after-hours",
       "symbol": "MNTK",
       "name": "Montauk Renewables, Inc.",
       "marketCap": "$146,611,376",
@@ -547,6 +558,17 @@
       "symbol": "SMID",
       "name": "Smith-Midland Corporation",
       "marketCap": "$108,213,960",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.12)",
+      "time": "time-not-supplied",
+      "symbol": "EP",
+      "name": "Empire Petroleum Corporation",
+      "marketCap": "$99,845,616",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -649,17 +671,6 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.02",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.04",
-      "time": "time-after-hours",
-      "symbol": "GLBS",
-      "name": "Globus Maritime Limited",
-      "marketCap": "$61,941,204",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -773,22 +784,11 @@
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.14)",
-      "time": "time-after-hours",
-      "symbol": "BOF",
-      "name": "BranchOut Food Inc.",
-      "marketCap": "$34,766,448",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($16.69)",
-      "time": "time-after-hours",
-      "symbol": "WKHS",
-      "name": "Workhorse Group, Inc.",
-      "marketCap": "$33,004,328",
+      "lastYearEPS": "$0.08",
+      "time": "time-not-supplied",
+      "symbol": "CKX",
+      "name": "CKX Lands, Inc.",
+      "marketCap": "$32,521,564",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -800,6 +800,17 @@
       "symbol": "EHLD",
       "name": "Euroholdings Ltd.",
       "marketCap": "$31,827,750",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.31)",
+      "time": "time-not-supplied",
+      "symbol": "HHS",
+      "name": "Harte Hanks, Inc.",
+      "marketCap": "$30,040,588",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -906,7 +917,7 @@
     {
       "lastYearRptDt": "11/10/2025",
       "lastYearEPS": "($1.61)",
-      "time": "time-after-hours",
+      "time": "time-not-supplied",
       "symbol": "KYNB",
       "name": "Kyntra Bio, Inc.",
       "marketCap": "$14,536,355",
@@ -921,17 +932,6 @@
       "symbol": "EONR",
       "name": "EON Resources Inc.",
       "marketCap": "$14,467,314",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($27.61)",
-      "time": "time-after-hours",
-      "symbol": "SLE",
-      "name": "Super League Enterprise, Inc.",
-      "marketCap": "$12,918,313",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -1004,17 +1004,6 @@
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "($99.99)",
-      "time": "time-pre-market",
-      "symbol": "JAGX",
-      "name": "Jaguar Health, Inc.",
-      "marketCap": "$5,337,060",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
       "lastYearEPS": "($2.19)",
       "time": "time-after-hours",
       "symbol": "AQMS",
@@ -1023,6 +1012,17 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "11/10/2025",
+      "lastYearEPS": "($2.56)",
+      "time": "time-not-supplied",
+      "symbol": "SKYE",
+      "name": "Skye Bioscience, Inc.",
+      "marketCap": "$4,781,891",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1181,9 +1181,9 @@
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
-      "time": "time-after-hours",
-      "symbol": "XGPU",
-      "name": "Reliance Global Group, Inc.",
+      "time": "time-not-supplied",
+      "symbol": "TWLV",
+      "name": "Twelve Seas Investment Company III",
       "marketCap": "",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
