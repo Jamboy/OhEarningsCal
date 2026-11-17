@@ -7,7 +7,7 @@
       "time": "time-after-hours",
       "symbol": "CRWD",
       "name": "CrowdStrike Holdings, Inc.",
-      "marketCap": "$232,033,878,000",
+      "marketCap": "$228,552,491,000",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0",
       "noOfEsts": "13"
@@ -18,7 +18,7 @@
       "time": "time-after-hours",
       "symbol": "MRVL",
       "name": "Marvell Technology, Inc.",
-      "marketCap": "$137,462,841,000",
+      "marketCap": "$127,466,185,000",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.79",
       "noOfEsts": "12"
@@ -29,7 +29,7 @@
       "time": "time-after-hours",
       "symbol": "NTAP",
       "name": "NetApp, Inc.",
-      "marketCap": "$35,624,514,000",
+      "marketCap": "$34,933,121,000",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$2.13",
       "noOfEsts": "8"
@@ -40,7 +40,7 @@
       "time": "time-after-hours",
       "symbol": "OKTA",
       "name": "Okta, Inc.",
-      "marketCap": "$31,969,503,200",
+      "marketCap": "$31,156,586,500",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.43",
       "noOfEsts": "10"
@@ -51,7 +51,7 @@
       "time": "time-after-hours",
       "symbol": "MDB",
       "name": "MongoDB, Inc.",
-      "marketCap": "$26,921,928,700",
+      "marketCap": "$25,529,915,400",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.08",
       "noOfEsts": "9"
@@ -62,7 +62,7 @@
       "time": "time-after-hours",
       "symbol": "CRDO",
       "name": "Credo Technology Group Holding Ltd",
-      "marketCap": "$24,717,557,800",
+      "marketCap": "$22,687,676,400",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$1.03",
       "noOfEsts": "6"
@@ -73,7 +73,7 @@
       "time": "time-after-hours",
       "symbol": "HQY",
       "name": "HealthEquity, Inc.",
-      "marketCap": "$8,557,724,700",
+      "marketCap": "$8,650,366,000",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.96",
       "noOfEsts": "4"
@@ -84,7 +84,7 @@
       "time": "time-not-supplied",
       "symbol": "GTLB",
       "name": "GitLab Inc.",
-      "marketCap": "$7,951,818,200",
+      "marketCap": "$7,885,177,900",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "($0.09)",
       "noOfEsts": "7"
@@ -95,7 +95,7 @@
       "time": "time-after-hours",
       "symbol": "BOX",
       "name": "Box, Inc.",
-      "marketCap": "$5,986,069,500",
+      "marketCap": "$6,012,138,000",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.09",
       "noOfEsts": "3"
@@ -106,9 +106,9 @@
       "time": "time-not-supplied",
       "symbol": "AEO",
       "name": "American Eagle Outfitters, Inc.",
-      "marketCap": "$3,638,017,020",
+      "marketCap": "$3,562,609,150",
       "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$0.49",
+      "epsForecast": "$0.51",
       "noOfEsts": "7"
     },
     {
@@ -117,7 +117,7 @@
       "time": "time-after-hours",
       "symbol": "NCNO",
       "name": "nCino, Inc.",
-      "marketCap": "$2,406,555,390",
+      "marketCap": "$2,408,669,950",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.16",
       "noOfEsts": "6"
@@ -128,7 +128,7 @@
       "time": "time-after-hours",
       "symbol": "ASAN",
       "name": "Asana, Inc.",
-      "marketCap": "$2,223,299,840",
+      "marketCap": "$2,264,514,560",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "($0.17)",
       "noOfEsts": "3"
@@ -139,10 +139,10 @@
       "time": "time-not-supplied",
       "symbol": "VLGEA",
       "name": "Village Super Market, Inc.",
-      "marketCap": "$627,492,160",
+      "marketCap": "$635,043,390",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "12/08/2025",
@@ -150,7 +150,7 @@
       "time": "time-after-hours",
       "symbol": "OOMA",
       "name": "Ooma, Inc.",
-      "marketCap": "$498,456,000",
+      "marketCap": "$495,972,000",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.21",
       "noOfEsts": "6"
@@ -164,7 +164,7 @@
       "marketCap": "$364,433,824",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "N/A",
@@ -172,10 +172,10 @@
       "time": "time-not-supplied",
       "symbol": "HERE",
       "name": "Here Group Limited",
-      "marketCap": "$82,994,976",
+      "marketCap": "$81,951,008",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "8"
     }
   ]
 }
