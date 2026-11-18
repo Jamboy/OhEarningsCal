@@ -37,7 +37,7 @@
     {
       "lastYearRptDt": "12/09/2025",
       "lastYearEPS": "$5.53",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "CASY",
       "name": "Caseys General Stores, Inc.",
       "marketCap": "$26,083,528,700",
@@ -202,7 +202,7 @@
     {
       "lastYearRptDt": "12/09/2025",
       "lastYearEPS": "$0.38",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "DBI",
       "name": "Designer Brands Inc.",
       "marketCap": "$322,077,440",

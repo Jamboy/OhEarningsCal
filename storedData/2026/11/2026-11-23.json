@@ -79,20 +79,9 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "11/10/2025",
-      "lastYearEPS": "($0.36)",
-      "time": "time-not-supplied",
-      "symbol": "TEO",
-      "name": "Telecom Argentina Stet - France Telecom S.A.",
-      "marketCap": "$4,415,060,500",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.32",
-      "noOfEsts": "2"
-    },
-    {
       "lastYearRptDt": "11/24/2025",
       "lastYearEPS": "($0.09)",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "CENT",
       "name": "Central Garden & Pet Company",
       "marketCap": "$2,928,707,580",
@@ -103,7 +92,7 @@
     {
       "lastYearRptDt": "11/24/2025",
       "lastYearEPS": "($0.09)",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "CENTA",
       "name": "Central Garden & Pet Company",
       "marketCap": "$2,928,707,580",
@@ -120,7 +109,7 @@
       "marketCap": "$2,687,560,960",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "11/24/2025",
@@ -142,7 +131,7 @@
       "marketCap": "$1,005,664,380",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "11/24/2025",
@@ -197,7 +186,7 @@
       "marketCap": "$659,460,540",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "11/24/2025",
@@ -230,7 +219,7 @@
       "marketCap": "$246,900,768",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -285,7 +274,7 @@
       "marketCap": "$160,504,032",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "11/24/2025",
@@ -307,7 +296,7 @@
       "marketCap": "$92,017,776",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "11/10/2025",
@@ -351,7 +340,7 @@
       "marketCap": "$35,238,196",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -376,34 +365,12 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "11/10/2025",
-      "lastYearEPS": "($1.31)",
-      "time": "time-not-supplied",
-      "symbol": "CVKD",
-      "name": "Cadrenal Therapeutics, Inc.",
-      "marketCap": "$4,994,629",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "($0.91)",
-      "noOfEsts": "3"
-    },
-    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$40",
       "time": "time-not-supplied",
       "symbol": "GDC",
       "name": "GD Culture Group Limited",
       "marketCap": "$4,911,750",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$6",
-      "time": "time-not-supplied",
-      "symbol": "MTNB",
-      "name": "Matinas Biopharma Holdings, Inc.",
-      "marketCap": "$908,015",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "1"

@@ -20,7 +20,7 @@
       "name": "Toronto Dominion Bank (The)",
       "marketCap": "$199,003,062,000",
       "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$1.80",
+      "epsForecast": "$1.77",
       "noOfEsts": "3"
     },
     {
@@ -31,7 +31,7 @@
       "name": "Canadian Imperial Bank of Commerce",
       "marketCap": "$103,404,241,000",
       "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$1.77",
+      "epsForecast": "$1.72",
       "noOfEsts": "2"
     },
     {
@@ -307,7 +307,7 @@
       "marketCap": "$550,395,840",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "12/04/2025",
@@ -395,7 +395,7 @@
       "marketCap": "$7,754,785",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "N/A"
     }
   ]
 }
