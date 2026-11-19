@@ -21,7 +21,7 @@
       "marketCap": "$14,075,246,600",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$1.24",
-      "noOfEsts": "10"
+      "noOfEsts": "11"
     },
     {
       "lastYearRptDt": "11/21/2025",
@@ -168,17 +168,6 @@
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.32)",
-      "time": "time-not-supplied",
-      "symbol": "QXL",
-      "name": "Quantum X Labs Inc.",
-      "marketCap": "$70,526,792",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.02",
       "time": "time-not-supplied",
       "symbol": "PVL",
@@ -186,7 +175,7 @@
       "marketCap": "$64,680,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -197,7 +186,7 @@
       "marketCap": "$55,756,244",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -250,17 +239,6 @@
       "symbol": "SUNE",
       "name": "SUNation Energy, Inc.",
       "marketCap": "$12,374,905",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "11/14/2025",
-      "lastYearEPS": "($4.41)",
-      "time": "time-not-supplied",
-      "symbol": "NEUP",
-      "name": "Neuphoria Therapeutics Inc.",
-      "marketCap": "$12,283,728",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -329,7 +307,7 @@
       "marketCap": "$4,991,882",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",

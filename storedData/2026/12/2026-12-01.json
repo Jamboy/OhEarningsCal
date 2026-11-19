@@ -92,7 +92,7 @@
     {
       "lastYearRptDt": "12/02/2025",
       "lastYearEPS": "N/A",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "GTLB",
       "name": "GitLab Inc.",
       "marketCap": "$7,427,028,000",
@@ -130,7 +130,7 @@
       "name": "American Eagle Outfitters, Inc.",
       "marketCap": "$3,549,203,200",
       "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$0.51",
+      "epsForecast": "$0.50",
       "noOfEsts": "7"
     },
     {
@@ -175,7 +175,7 @@
       "marketCap": "$625,715,390",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "12/08/2025",
@@ -197,7 +197,18 @@
       "marketCap": "$371,021,984",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "8"
+    },
+    {
+      "lastYearRptDt": "11/19/2025",
+      "lastYearEPS": "($0.11)",
+      "time": "time-after-hours",
+      "symbol": "CRNC",
+      "name": "Cerence Inc.",
+      "marketCap": "$322,491,744",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.03",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -208,7 +219,7 @@
       "marketCap": "$82,994,976",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "8"
     }
   ]
 }

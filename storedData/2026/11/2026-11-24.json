@@ -9,7 +9,7 @@
       "name": "Dell Technologies Inc.",
       "marketCap": "$205,233,996,000",
       "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$6.41",
+      "epsForecast": "$6.48",
       "noOfEsts": "8"
     },
     {
@@ -64,8 +64,8 @@
       "name": "Dollar Tree, Inc.",
       "marketCap": "$26,213,828,600",
       "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$0.88",
-      "noOfEsts": "9"
+      "epsForecast": "$0.89",
+      "noOfEsts": "10"
     },
     {
       "lastYearRptDt": "11/25/2025",
@@ -87,7 +87,7 @@
       "marketCap": "$20,637,204,500",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$1.48",
-      "noOfEsts": "9"
+      "noOfEsts": "10"
     },
     {
       "lastYearRptDt": "11/25/2025",
@@ -119,7 +119,7 @@
       "name": "The J.M. Smucker Company ",
       "marketCap": "$14,254,485,500",
       "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$2.56",
+      "epsForecast": "$2.57",
       "noOfEsts": "5"
     },
     {
@@ -197,7 +197,7 @@
       "marketCap": "$4,979,313,200",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "11/13/2025",
@@ -333,17 +333,6 @@
     },
     {
       "lastYearRptDt": "11/25/2025",
-      "lastYearEPS": "$0.03",
-      "time": "time-not-supplied",
-      "symbol": "WOOF",
-      "name": "Petco Health and Wellness Company, Inc.",
-      "marketCap": "$770,468,100",
-      "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$0",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "11/25/2025",
       "lastYearEPS": "$0.45",
       "time": "time-pre-market",
       "symbol": "MOV",
@@ -428,7 +417,7 @@
       "marketCap": "$289,676,480",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
@@ -439,7 +428,7 @@
       "marketCap": "$218,973,280",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
@@ -450,7 +439,7 @@
       "marketCap": "$195,311,392",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "11/11/2025",
@@ -538,7 +527,7 @@
       "marketCap": "$24,942,960",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
@@ -549,7 +538,7 @@
       "marketCap": "$23,619,770",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "3"
     }
   ]
 }
