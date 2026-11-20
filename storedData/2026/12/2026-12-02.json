@@ -59,13 +59,13 @@
     {
       "lastYearRptDt": "12/03/2025",
       "lastYearEPS": "$0.68",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "FIVE",
       "name": "Five Below, Inc.",
       "marketCap": "$12,966,877,200",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$1.17",
-      "noOfEsts": "7"
+      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "12/03/2025",
@@ -130,19 +130,8 @@
       "name": "Macy's Inc",
       "marketCap": "$6,498,075,100",
       "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "($0.17)",
+      "epsForecast": "($0.16)",
       "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "12/03/2025",
-      "lastYearEPS": "$2.83",
-      "time": "time-not-supplied",
-      "symbol": "PVH",
-      "name": "PVH Corp.",
-      "marketCap": "$4,514,587,100",
-      "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$2.60",
-      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "12/02/2025",
@@ -175,7 +164,7 @@
       "marketCap": "$3,008,217,860",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "6"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "11/24/2025",
@@ -263,7 +252,18 @@
       "marketCap": "$359,301,952",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "6"
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "12/09/2025",
+      "lastYearEPS": "$0.24",
+      "time": "time-after-hours",
+      "symbol": "AOUT",
+      "name": "American Outdoor Brands, Inc.",
+      "marketCap": "$244,851,760",
+      "fiscalQuarterEnding": "Oct/2026",
+      "epsForecast": "$0.32",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "12/03/2025",
@@ -285,7 +285,7 @@
       "marketCap": "$183,552,976",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "6"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "12/03/2025",
@@ -329,7 +329,7 @@
       "marketCap": "$10,821,836",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "6"
+      "noOfEsts": "2"
     }
   ]
 }
