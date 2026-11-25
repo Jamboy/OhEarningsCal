@@ -263,12 +263,12 @@
       "marketCap": "$2,362,537,470",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "12/04/2025",
       "lastYearEPS": "$0.88",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "IDT",
       "name": "IDT Corporation",
       "marketCap": "$1,846,854,530",
@@ -307,7 +307,7 @@
       "marketCap": "$1,137,924,480",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "12/04/2025",
@@ -440,6 +440,17 @@
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.12",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "12/05/2025",
+      "lastYearEPS": "($0.10)",
+      "time": "time-pre-market",
+      "symbol": "MNY",
+      "name": "MoneyHero Limited",
+      "marketCap": "$23,945,060",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",

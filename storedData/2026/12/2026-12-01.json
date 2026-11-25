@@ -2,6 +2,17 @@
   "date": "2026-12-01",
   "data": [
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "BHP",
+      "name": "BHP Group Limited",
+      "marketCap": "$179,729,154,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "3"
+    },
+    {
       "lastYearRptDt": "12/02/2025",
       "lastYearEPS": "$0.62",
       "time": "time-after-hours",
@@ -42,7 +53,7 @@
       "name": "Copart, Inc.",
       "marketCap": "$29,292,073,000",
       "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$0.41",
+      "epsForecast": "$0.40",
       "noOfEsts": "4"
     },
     {
@@ -156,6 +167,17 @@
       "noOfEsts": "2"
     },
     {
+      "lastYearRptDt": "11/04/2025",
+      "lastYearEPS": "$0.32",
+      "time": "time-not-supplied",
+      "symbol": "DRVN",
+      "name": "Driven Brands Holdings Inc.",
+      "marketCap": "$1,773,533,060",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.27",
+      "noOfEsts": "3"
+    },
+    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.84",
       "time": "time-not-supplied",
@@ -186,7 +208,7 @@
       "marketCap": "$345,503,296",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "11/19/2025",
@@ -211,6 +233,17 @@
       "noOfEsts": "3"
     },
     {
+      "lastYearRptDt": "11/11/2025",
+      "lastYearEPS": "($0.25)",
+      "time": "time-not-supplied",
+      "symbol": "ZENA",
+      "name": "ZenaTech, Inc.",
+      "marketCap": "$96,052,888",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "($0.18)",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "($0.06)",
       "time": "time-not-supplied",
@@ -219,7 +252,51 @@
       "marketCap": "$84,560,920",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.06",
+      "time": "time-not-supplied",
+      "symbol": "AFJK",
+      "name": "Aimei Health Technology Co., Ltd",
+      "marketCap": "$77,040,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.03",
+      "time": "time-pre-market",
+      "symbol": "AMBR",
+      "name": "Amber International Holding Limited",
+      "marketCap": "$66,341,496",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "11/11/2025",
+      "lastYearEPS": "$0.04",
+      "time": "time-not-supplied",
+      "symbol": "DAVA",
+      "name": "Endava plc",
+      "marketCap": "$59,217,088",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.03",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "11/04/2025",
+      "lastYearEPS": "($0.32)",
+      "time": "time-not-supplied",
+      "symbol": "EVTL",
+      "name": "Vertical Aerospace Ltd.",
+      "marketCap": "$48,872,548",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "($0.29)",
+      "noOfEsts": "3"
     }
   ]
 }
